@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1564347144222.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "FD60F344",
+    "lastKnownWriteTime" : 1564347306,
+    "last_content_update" : 1564347306693,
+    "path" : "~/Dropbox/work/BU_web/docs/config.toml",
+    "project_path" : "docs/config.toml",
+    "properties" : {
+        "cursorPosition" : "12,19",
+        "scrollLine" : "5"
+    },
+    "relative_order" : 7,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "toml"
+}
