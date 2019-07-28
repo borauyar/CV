@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Dr. Bora Uyar</title>
+    <link>https://borauyar.github.io/borauyar/authors/</link>
+      <atom:link href="https://borauyar.github.io/borauyar/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://borauyar.github.io/borauyar/img/icon-192.png</url>
+      <title>Authors</title>
+      <link>https://borauyar.github.io/borauyar/authors/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>https://borauyar.github.io/borauyar/authors/admin/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://borauyar.github.io/borauyar/authors/admin/</guid>
+      <description>&lt;p&gt;Bora Uyar is a bioinformatics scientist at the Bioinformatics and Omics Data Science Platform of the Berlin Institute for Medical Systems Biology of the Max-Delbruck-Center in Berlin/Germany. His main aim is to apply his bioinformatics skills (such as machine learning, statistics, and programming) to further our understanding of human diseases at the molecular level. He is particularly interested in cancer biology, for which he integrates multiple sources of high-throughput sequencing (multi-omics) datasets measured at both bulk and single-cell level resolution. He is currently interested in how to decipher the disruptions in cellular identities using single-cell sequencing datasets and transfer this knowledge to bulk sequencing datasets available in large scale human sequencing projects such as TCGA and the ICGC/PCAWG. He is particularly curious about how E3 ligases involved in proteasome-mediated protein degradation are influential in determination of the cell identities, regulation of the cell cycle, response to the environment and how factors that lead to the mis-regulation of such enzyme complexes can determine the prognosis of cancer patients.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Robert Ford</title>
+      <link>https://borauyar.github.io/borauyar/authors/robert-ford/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>https://borauyar.github.io/borauyar/authors/robert-ford/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
