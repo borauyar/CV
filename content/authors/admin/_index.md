@@ -27,9 +27,6 @@ organizations:
   url: "http://mdc-berlin.de/"
 role: Bioinformatics Scientist
 social:
-- icon: envelope
-  icon_pack: fas
-  link: '#contact'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/borauyar
