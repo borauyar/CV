@@ -33,11 +33,10 @@
   url = "#experience"
   weight = 60
 
-
-#[[main]]
- # name = "Publications"
-#  url = "#featured"
-# weight = 40
+[[main]]
+  name = "Publications"
+  url = "#publications"
+  weight = 70
 
 #[[main]]
 #  name = "Courses"

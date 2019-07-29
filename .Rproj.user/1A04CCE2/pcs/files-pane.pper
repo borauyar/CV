@@ -2,7 +2,7 @@
     "path" : "~/Dropbox/work/borauyar",
     "sortOrder" : [
         {
-            "ascending" : true,
+            "ascending" : false,
             "columnIndex" : 2
         }
     ]
