@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>K. Wang | Dr. Bora Uyar</title>
-    <link>https://borauyar.github.io/borauyar/authors/k.-wang/</link>
-      <atom:link href="https://borauyar.github.io/borauyar/authors/k.-wang/index.xml" rel="self" type="application/rss+xml" />
+    <link>/CV/authors/k.-wang/</link>
+      <atom:link href="/CV/authors/k.-wang/index.xml" rel="self" type="application/rss+xml" />
     <description>K. Wang</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2011 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://borauyar.github.io/borauyar/img/icon-192.png</url>
+      <url>/CV/img/icon-192.png</url>
       <title>K. Wang</title>
-      <link>https://borauyar.github.io/borauyar/authors/k.-wang/</link>
+      <link>/CV/authors/k.-wang/</link>
     </image>
     
     <item>
       <title>genBlastG: Using BLAST searches to build homologous gene models</title>
-      <link>https://borauyar.github.io/borauyar/publication/journal-article/2011-01-01_genblastg_using_blas/</link>
+      <link>/CV/publication/journal-article/2011-01-01_genblastg_using_blas/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>https://borauyar.github.io/borauyar/publication/journal-article/2011-01-01_genblastg_using_blas/</guid>
+      <guid>/CV/publication/journal-article/2011-01-01_genblastg_using_blas/</guid>
       <description></description>
     </item>
     

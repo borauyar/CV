@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>M. Kuba? | Dr. Bora Uyar</title>
-    <link>https://borauyar.github.io/borauyar/authors/m.-kuba/</link>
-      <atom:link href="https://borauyar.github.io/borauyar/authors/m.-kuba/index.xml" rel="self" type="application/rss+xml" />
+    <link>/CV/authors/m.-kuba/</link>
+      <atom:link href="/CV/authors/m.-kuba/index.xml" rel="self" type="application/rss+xml" />
     <description>M. Kuba?</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://borauyar.github.io/borauyar/img/icon-192.png</url>
+      <url>/CV/img/icon-192.png</url>
       <title>M. Kuba?</title>
-      <link>https://borauyar.github.io/borauyar/authors/m.-kuba/</link>
+      <link>/CV/authors/m.-kuba/</link>
     </image>
     
     <item>
       <title>The eukaryotic linear motif resource ELM: 10 years and counting</title>
-      <link>https://borauyar.github.io/borauyar/publication/journal-article/2014-01-01_the_eukaryotic_linea/</link>
+      <link>/CV/publication/journal-article/2014-01-01_the_eukaryotic_linea/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://borauyar.github.io/borauyar/publication/journal-article/2014-01-01_the_eukaryotic_linea/</guid>
+      <guid>/CV/publication/journal-article/2014-01-01_the_eukaryotic_linea/</guid>
       <description></description>
     </item>
     

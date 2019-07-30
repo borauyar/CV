@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories | Dr. Bora Uyar</title>
-    <link>https://borauyar.github.io/borauyar/categories/</link>
-      <atom:link href="https://borauyar.github.io/borauyar/categories/index.xml" rel="self" type="application/rss+xml" />
+    <link>/CV/categories/</link>
+      <atom:link href="/CV/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://borauyar.github.io/borauyar/img/icon-192.png</url>
+      <url>/CV/img/icon-192.png</url>
       <title>Categories</title>
-      <link>https://borauyar.github.io/borauyar/categories/</link>
+      <link>/CV/categories/</link>
     </image>
     
     <item>
       <title>Demo</title>
-      <link>https://borauyar.github.io/borauyar/categories/demo/</link>
+      <link>/CV/categories/demo/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://borauyar.github.io/borauyar/categories/demo/</guid>
+      <guid>/CV/categories/demo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R</title>
-      <link>https://borauyar.github.io/borauyar/categories/r/</link>
+      <link>/CV/categories/r/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      <guid>https://borauyar.github.io/borauyar/categories/r/</guid>
+      <guid>/CV/categories/r/</guid>
       <description></description>
     </item>
     

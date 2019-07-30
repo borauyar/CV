@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>L. Jodicke | Dr. Bora Uyar</title>
-    <link>https://borauyar.github.io/borauyar/authors/l.-jodicke/</link>
-      <atom:link href="https://borauyar.github.io/borauyar/authors/l.-jodicke/index.xml" rel="self" type="application/rss+xml" />
+    <link>/CV/authors/l.-jodicke/</link>
+      <atom:link href="/CV/authors/l.-jodicke/index.xml" rel="self" type="application/rss+xml" />
     <description>L. Jodicke</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://borauyar.github.io/borauyar/img/icon-192.png</url>
+      <url>/CV/img/icon-192.png</url>
       <title>L. Jodicke</title>
-      <link>https://borauyar.github.io/borauyar/authors/l.-jodicke/</link>
+      <link>/CV/authors/l.-jodicke/</link>
     </image>
     
     <item>
       <title>ELM - The database of eukaryotic linear motifs</title>
-      <link>https://borauyar.github.io/borauyar/publication/journal-article/2012-01-01_elm_-_the_database_o/</link>
+      <link>/CV/publication/journal-article/2012-01-01_elm_-_the_database_o/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://borauyar.github.io/borauyar/publication/journal-article/2012-01-01_elm_-_the_database_o/</guid>
+      <guid>/CV/publication/journal-article/2012-01-01_elm_-_the_database_o/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Zsuzsanna Dosztanyi | Dr. Bora Uyar</title>
-    <link>https://borauyar.github.io/borauyar/authors/zsuzsanna-dosztanyi/</link>
-      <atom:link href="https://borauyar.github.io/borauyar/authors/zsuzsanna-dosztanyi/index.xml" rel="self" type="application/rss+xml" />
+    <link>/CV/authors/zsuzsanna-dosztanyi/</link>
+      <atom:link href="/CV/authors/zsuzsanna-dosztanyi/index.xml" rel="self" type="application/rss+xml" />
     <description>Zsuzsanna Dosztanyi</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://borauyar.github.io/borauyar/img/icon-192.png</url>
+      <url>/CV/img/icon-192.png</url>
       <title>Zsuzsanna Dosztanyi</title>
-      <link>https://borauyar.github.io/borauyar/authors/zsuzsanna-dosztanyi/</link>
+      <link>/CV/authors/zsuzsanna-dosztanyi/</link>
     </image>
     
     <item>
       <title>Degrons in cancer</title>
-      <link>https://borauyar.github.io/borauyar/publication/journal-article/2017-01-01_degrons_in_cancer/</link>
+      <link>/CV/publication/journal-article/2017-01-01_degrons_in_cancer/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://borauyar.github.io/borauyar/publication/journal-article/2017-01-01_degrons_in_cancer/</guid>
+      <guid>/CV/publication/journal-article/2017-01-01_degrons_in_cancer/</guid>
       <description></description>
     </item>
     

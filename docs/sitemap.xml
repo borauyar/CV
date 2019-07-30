@@ -3,1025 +3,1035 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://borauyar.github.io/borauyar/courses/example/example1/</loc>
+    <loc>/CV/courses/example/example1/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://borauyar.github.io/borauyar/courses/example/</loc>
+    <loc>/CV/courses/example/</loc>
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://borauyar.github.io/borauyar/courses/example/example2/</loc>
+    <loc>/CV/courses/example/example2/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://borauyar.github.io/borauyar/</loc>
+    <loc>/CV/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://borauyar.github.io/borauyar/talk/example/</loc>
+    <loc>/CV/talk/example/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://borauyar.github.io/borauyar/talk/</loc>
+    <loc>/CV/talk/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://borauyar.github.io/borauyar/post/</loc>
+    <loc>/CV/post/</loc>
     <lastmod>2019-07-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://borauyar.github.io/borauyar/post/writing-technical-content/</loc>
+    <loc>/CV/post/writing-technical-content/</loc>
     <lastmod>2019-07-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://borauyar.github.io/borauyar/authors/admin/</loc>
+    <loc>/CV/authors/admin/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://borauyar.github.io/borauyar/authors/</loc>
+    <loc>/CV/authors/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://borauyar.github.io/borauyar/post/jupyter/</loc>
+    <loc>/CV/post/jupyter/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://borauyar.github.io/borauyar/slides/</loc>
+    <loc>/CV/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://borauyar.github.io/borauyar/slides/example/</loc>
+    <loc>/CV/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://borauyar.github.io/borauyar/publication_types/2/</loc>
+    <loc>/CV/publication_types/2/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://borauyar.github.io/borauyar/authors/altuna-akalin/</loc>
+    <loc>/CV/authors/altuna-akalin/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://borauyar.github.io/borauyar/authors/baris-tursun/</loc>
+    <loc>/CV/authors/baris-tursun/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://borauyar.github.io/borauyar/authors/bora-uyar/</loc>
+    <loc>/CV/authors/bora-uyar/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://borauyar.github.io/borauyar/publication/journal-article/2019-01-01_hot_or_not_examining/</loc>
+    <loc>/CV/publication/journal-article/2019-01-01_hot_or_not_examining/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://borauyar.github.io/borauyar/authors/katarzyna-wreczycka/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://borauyar.github.io/borauyar/publication_types/</loc>
+    <loc>/CV/authors/katarzyna-wreczycka/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://borauyar.github.io/borauyar/publication/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://borauyar.github.io/borauyar/authors/ricardo-wurmus/</loc>
+    <loc>/CV/publication_types/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://borauyar.github.io/borauyar/authors/selman-bulut/</loc>
+    <loc>/CV/publication/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/CV/authors/ricardo-wurmus/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://borauyar.github.io/borauyar/authors/vedran-franke/</loc>
+    <loc>/CV/authors/selman-bulut/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://borauyar.github.io/borauyar/authors/ahmet-bugra-tufan/</loc>
+    <loc>/CV/authors/vedran-franke/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/CV/privacy/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/CV/terms/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/CV/authors/ahmet-bugra-tufan/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://borauyar.github.io/borauyar/authors/akalin-a/</loc>
+    <loc>/CV/authors/akalin-a/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://borauyar.github.io/borauyar/authors/alexander-gosdschan/</loc>
+    <loc>/CV/authors/alexander-gosdschan/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://borauyar.github.io/borauyar/authors/baytek-g/</loc>
+    <loc>/CV/authors/baytek-g/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://borauyar.github.io/borauyar/authors/bjarn-perder/</loc>
+    <loc>/CV/authors/bjarn-perder/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://borauyar.github.io/borauyar/authors/brendan-osberg/</loc>
+    <loc>/CV/authors/brendan-osberg/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://borauyar.github.io/borauyar/authors/bulut-si/</loc>
+    <loc>/CV/authors/bulut-si/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://borauyar.github.io/borauyar/authors/cheng-jy/</loc>
+    <loc>/CV/authors/cheng-jy/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://borauyar.github.io/borauyar/authors/claus-scheidereit/</loc>
+    <loc>/CV/authors/claus-scheidereit/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://borauyar.github.io/borauyar/authors/diecke-s/</loc>
+    <loc>/CV/authors/diecke-s/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://borauyar.github.io/borauyar/publication/journal-article/2018-01-01_fact_sets_a_barrier_/</loc>
+    <loc>/CV/publication/journal-article/2018-01-01_fact_sets_a_barrier_/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://borauyar.github.io/borauyar/authors/gerhardt-h/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://borauyar.github.io/borauyar/authors/gunnar-dittmar/</loc>
+    <loc>/CV/authors/gerhardt-h/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://borauyar.github.io/borauyar/authors/haucke-v/</loc>
+    <loc>/CV/authors/gunnar-dittmar/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://borauyar.github.io/borauyar/authors/he-m/</loc>
+    <loc>/CV/authors/haucke-v/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://borauyar.github.io/borauyar/authors/hernandez-miranda-lr/</loc>
+    <loc>/CV/authors/he-m/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://borauyar.github.io/borauyar/authors/hirsekorn-a/</loc>
+    <loc>/CV/authors/hernandez-miranda-lr/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://borauyar.github.io/borauyar/authors/jonathan-ronen/</loc>
+    <loc>/CV/authors/hirsekorn-a/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://borauyar.github.io/borauyar/authors/kirchner-m/</loc>
+    <loc>/CV/authors/jonathan-ronen/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://borauyar.github.io/borauyar/authors/kolundzic-e/</loc>
+    <loc>/CV/authors/kirchner-m/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://borauyar.github.io/borauyar/authors/lacadie-sa/</loc>
+    <loc>/CV/authors/kolundzic-e/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://borauyar.github.io/borauyar/authors/marina-kolesnichenko/</loc>
+    <loc>/CV/authors/lacadie-sa/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://borauyar.github.io/borauyar/authors/meyer-k/</loc>
+    <loc>/CV/authors/marina-kolesnichenko/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://borauyar.github.io/borauyar/authors/michael-hinz/</loc>
+    <loc>/CV/authors/meyer-k/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://borauyar.github.io/borauyar/publication/journal-article/2018-01-01_mutations_in_disorde/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://borauyar.github.io/borauyar/authors/nadine-mikuda/</loc>
+    <loc>/CV/authors/michael-hinz/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://borauyar.github.io/borauyar/authors/ofenbauer-a/</loc>
+    <loc>/CV/publication/journal-article/2018-01-01_mutations_in_disorde/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/CV/authors/nadine-mikuda/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://borauyar.github.io/borauyar/authors/oliver-popp/</loc>
+    <loc>/CV/authors/ofenbauer-a/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://borauyar.github.io/borauyar/authors/patrick-beaudette/</loc>
+    <loc>/CV/authors/oliver-popp/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://borauyar.github.io/borauyar/authors/philipp-mertins/</loc>
+    <loc>/CV/authors/patrick-beaudette/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://borauyar.github.io/borauyar/publication/journal-article/2018-01-01_pigx_reproducible_/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://borauyar.github.io/borauyar/authors/rudolph-im/</loc>
+    <loc>/CV/authors/philipp-mertins/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://borauyar.github.io/borauyar/authors/russo-g/</loc>
+    <loc>/CV/publication/journal-article/2018-01-01_pigx_reproducible_/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/CV/authors/rudolph-im/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://borauyar.github.io/borauyar/authors/seelk-s/</loc>
+    <loc>/CV/authors/russo-g/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://borauyar.github.io/borauyar/authors/selbach-m/</loc>
+    <loc>/CV/authors/seelk-s/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://borauyar.github.io/borauyar/authors/sommermeier-a/</loc>
+    <loc>/CV/authors/selbach-m/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://borauyar.github.io/borauyar/authors/szymborska-a/</loc>
+    <loc>/CV/authors/sommermeier-a/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://borauyar.github.io/borauyar/publication/journal-article/2018-01-01_the_i%5Cupkappab_kin/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://borauyar.github.io/borauyar/authors/tursun-b/</loc>
+    <loc>/CV/authors/szymborska-a/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://borauyar.github.io/borauyar/authors/uyar-b/</loc>
+    <loc>/CV/publication/journal-article/2018-01-01_the_i%5Cupkappab_kin/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/CV/authors/tursun-b/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://borauyar.github.io/borauyar/authors/vucicevic-d/</loc>
+    <loc>/CV/authors/uyar-b/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://borauyar.github.io/borauyar/authors/wei-chen/</loc>
+    <loc>/CV/authors/vucicevic-d/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://borauyar.github.io/borauyar/authors/wei-sun/</loc>
+    <loc>/CV/authors/wei-chen/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://borauyar.github.io/borauyar/authors/willnow-te/</loc>
+    <loc>/CV/authors/wei-sun/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://borauyar.github.io/borauyar/authors/zauber-h/</loc>
+    <loc>/CV/authors/willnow-te/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://borauyar.github.io/borauyar/authors/balint-meszaros/</loc>
+    <loc>/CV/authors/zauber-h/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/CV/authors/balint-meszaros/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://borauyar.github.io/borauyar/publication/journal-article/2017-01-01_degrons_in_cancer/</loc>
+    <loc>/CV/publication/journal-article/2017-01-01_degrons_in_cancer/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://borauyar.github.io/borauyar/authors/manjeet-kumar/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://borauyar.github.io/borauyar/authors/ohler-u/</loc>
+    <loc>/CV/authors/manjeet-kumar/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://borauyar.github.io/borauyar/publication/journal-article/2017-01-01_rcas_an_rna_centric_/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://borauyar.github.io/borauyar/authors/rajewsky-n/</loc>
+    <loc>/CV/authors/ohler-u/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://borauyar.github.io/borauyar/authors/toby-j.-gibson/</loc>
+    <loc>/CV/publication/journal-article/2017-01-01_rcas_an_rna_centric_/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/CV/authors/rajewsky-n/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://borauyar.github.io/borauyar/authors/wurmus-r/</loc>
+    <loc>/CV/authors/toby-j.-gibson/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://borauyar.github.io/borauyar/authors/yusuf-d/</loc>
+    <loc>/CV/authors/wurmus-r/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://borauyar.github.io/borauyar/authors/zsuzsanna-dosztanyi/</loc>
+    <loc>/CV/authors/yusuf-d/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://borauyar.github.io/borauyar/tags/deep-learning/</loc>
+    <loc>/CV/authors/zsuzsanna-dosztanyi/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/CV/tags/deep-learning/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://borauyar.github.io/borauyar/tags/demo/</loc>
+    <loc>/CV/tags/demo/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://borauyar.github.io/borauyar/project/external-project/</loc>
+    <loc>/CV/project/external-project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://borauyar.github.io/borauyar/project/internal-project/</loc>
+    <loc>/CV/project/internal-project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://borauyar.github.io/borauyar/project/</loc>
+    <loc>/CV/project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://borauyar.github.io/borauyar/tags/</loc>
+    <loc>/CV/tags/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://borauyar.github.io/borauyar/tags/academic/</loc>
+    <loc>/CV/tags/academic/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://borauyar.github.io/borauyar/post/getting-started/</loc>
+    <loc>/CV/post/getting-started/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://borauyar.github.io/borauyar/categories/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://borauyar.github.io/borauyar/categories/demo/</loc>
+    <loc>/CV/categories/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://borauyar.github.io/borauyar/authors/a.-behrendt/</loc>
+    <loc>/CV/categories/demo/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/CV/authors/a.-behrendt/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://borauyar.github.io/borauyar/authors/a.-staudt/</loc>
+    <loc>/CV/authors/a.-staudt/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://borauyar.github.io/borauyar/authors/a.c.-knudsen/</loc>
+    <loc>/CV/authors/a.c.-knudsen/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://borauyar.github.io/borauyar/authors/b.-altenberg/</loc>
+    <loc>/CV/authors/b.-altenberg/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://borauyar.github.io/borauyar/authors/b.-uyar/</loc>
+    <loc>/CV/authors/b.-uyar/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://borauyar.github.io/borauyar/authors/c.-mader/</loc>
+    <loc>/CV/authors/c.-mader/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://borauyar.github.io/borauyar/publication/journal-article/2016-01-01_elm_2016_-_data_upda/</loc>
+    <loc>/CV/publication/journal-article/2016-01-01_elm_2016_-_data_upda/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://borauyar.github.io/borauyar/authors/f.-diella/</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://borauyar.github.io/borauyar/authors/h.-dinkel/</loc>
+    <loc>/CV/authors/f.-diella/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://borauyar.github.io/borauyar/authors/h.-kuhn/</loc>
+    <loc>/CV/authors/h.-dinkel/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://borauyar.github.io/borauyar/authors/k.-roey/</loc>
+    <loc>/CV/authors/h.-kuhn/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://borauyar.github.io/borauyar/authors/l.-welti/</loc>
+    <loc>/CV/authors/k.-roey/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://borauyar.github.io/borauyar/authors/m.-kumar/</loc>
+    <loc>/CV/authors/l.-welti/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://borauyar.github.io/borauyar/authors/m.-schneider/</loc>
+    <loc>/CV/authors/m.-kumar/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://borauyar.github.io/borauyar/authors/n.e.-davey/</loc>
+    <loc>/CV/authors/m.-schneider/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://borauyar.github.io/borauyar/authors/s.-diebel/</loc>
+    <loc>/CV/authors/n.e.-davey/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://borauyar.github.io/borauyar/authors/s.-kalman/</loc>
+    <loc>/CV/authors/s.-diebel/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://borauyar.github.io/borauyar/authors/s.-klein/</loc>
+    <loc>/CV/authors/s.-kalman/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://borauyar.github.io/borauyar/authors/s.-merrill/</loc>
+    <loc>/CV/authors/s.-klein/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://borauyar.github.io/borauyar/authors/s.-michael/</loc>
+    <loc>/CV/authors/s.-merrill/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://borauyar.github.io/borauyar/authors/s.l.-dahl/</loc>
+    <loc>/CV/authors/s.-michael/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://borauyar.github.io/borauyar/authors/t.j.-gibson/</loc>
+    <loc>/CV/authors/s.l.-dahl/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://borauyar.github.io/borauyar/authors/v.-damerell/</loc>
+    <loc>/CV/authors/t.j.-gibson/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://borauyar.github.io/borauyar/authors/v.-milchevskaya/</loc>
+    <loc>/CV/authors/v.-damerell/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://borauyar.github.io/borauyar/authors/v.-thiel/</loc>
+    <loc>/CV/authors/v.-milchevskaya/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://borauyar.github.io/borauyar/post/2015-07-23-r-rmarkdown/</loc>
+    <loc>/CV/authors/v.-thiel/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/CV/post/2015-07-23-r-rmarkdown/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://borauyar.github.io/borauyar/categories/r/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://borauyar.github.io/borauyar/tags/r-markdown/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://borauyar.github.io/borauyar/tags/plot/</loc>
+    <loc>/CV/categories/r/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://borauyar.github.io/borauyar/tags/regression/</loc>
+    <loc>/CV/tags/r-markdown/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://borauyar.github.io/borauyar/authors/a.-via/</loc>
+    <loc>/CV/tags/plot/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/CV/tags/regression/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/CV/authors/a.-via/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://borauyar.github.io/borauyar/authors/a.-zanzoni/</loc>
+    <loc>/CV/authors/a.-zanzoni/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://borauyar.github.io/borauyar/authors/c.-brun/</loc>
+    <loc>/CV/authors/c.-brun/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://borauyar.github.io/borauyar/publication/journal-article/2015-01-01_how_pathogens_use_li/</loc>
+    <loc>/CV/publication/journal-article/2015-01-01_how_pathogens_use_li/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://borauyar.github.io/borauyar/authors/a.-budd/</loc>
+    <loc>/CV/authors/a.-budd/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://borauyar.github.io/borauyar/authors/d.-born/</loc>
+    <loc>/CV/authors/d.-born/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://borauyar.github.io/borauyar/authors/d.-kruger/</loc>
+    <loc>/CV/authors/d.-kruger/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://borauyar.github.io/borauyar/authors/g.-grebnev/</loc>
+    <loc>/CV/authors/g.-grebnev/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://borauyar.github.io/borauyar/authors/i.e.-sanchez/</loc>
+    <loc>/CV/authors/i.e.-sanchez/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://borauyar.github.io/borauyar/authors/j.-glavina/</loc>
+    <loc>/CV/authors/j.-glavina/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://borauyar.github.io/borauyar/authors/k.-van-roey/</loc>
+    <loc>/CV/authors/k.-van-roey/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://borauyar.github.io/borauyar/authors/l.b.-chemes/</loc>
+    <loc>/CV/authors/l.b.-chemes/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://borauyar.github.io/borauyar/authors/m.-kuba/</loc>
+    <loc>/CV/authors/m.-kuba/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://borauyar.github.io/borauyar/authors/m.-seiler/</loc>
+    <loc>/CV/authors/m.-seiler/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://borauyar.github.io/borauyar/authors/m.-strumillo/</loc>
+    <loc>/CV/authors/m.-strumillo/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://borauyar.github.io/borauyar/publication/journal-article/2014-01-01_proteome-wide_analys/</loc>
+    <loc>/CV/publication/journal-article/2014-01-01_proteome-wide_analys/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://borauyar.github.io/borauyar/authors/r.j.-weatheritt/</loc>
-    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://borauyar.github.io/borauyar/publication/journal-article/2014-01-01_short_linear_motifs_/</loc>
-    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://borauyar.github.io/borauyar/authors/t.-speck/</loc>
+    <loc>/CV/authors/r.j.-weatheritt/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://borauyar.github.io/borauyar/publication/journal-article/2014-01-01_the_eukaryotic_linea/</loc>
+    <loc>/CV/publication/journal-article/2014-01-01_short_linear_motifs_/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://borauyar.github.io/borauyar/authors/a.-chatr-aryamontri/</loc>
+    <loc>/CV/authors/t.-speck/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/CV/publication/journal-article/2014-01-01_the_eukaryotic_linea/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/CV/authors/a.-chatr-aryamontri/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://borauyar.github.io/borauyar/publication/journal-article/2012-01-01_attributes_of_short_/</loc>
+    <loc>/CV/publication/journal-article/2012-01-01_attributes_of_short_/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://borauyar.github.io/borauyar/authors/c.-chica/</loc>
-    <lastmod>2012-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://borauyar.github.io/borauyar/authors/c.-mcguigan/</loc>
+    <loc>/CV/authors/c.-chica/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://borauyar.github.io/borauyar/authors/c.-schroeter/</loc>
+    <loc>/CV/authors/c.-mcguigan/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://borauyar.github.io/borauyar/authors/d.-tu/</loc>
+    <loc>/CV/authors/c.-schroeter/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://borauyar.github.io/borauyar/authors/d.-zhang/</loc>
+    <loc>/CV/authors/d.-tu/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://borauyar.github.io/borauyar/authors/d.l.-baillie/</loc>
+    <loc>/CV/authors/d.-zhang/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://borauyar.github.io/borauyar/publication/journal-article/2012-01-01_elm_-_the_database_o/</loc>
-    <lastmod>2012-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://borauyar.github.io/borauyar/publication/journal-article/2012-01-01_fine_tuning_of_rfxda/</loc>
-    <lastmod>2012-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://borauyar.github.io/borauyar/authors/g.-toedt/</loc>
+    <loc>/CV/authors/d.l.-baillie/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://borauyar.github.io/borauyar/authors/h.-meiselbach/</loc>
+    <loc>/CV/publication/journal-article/2012-01-01_elm_-_the_database_o/</loc>
+    <lastmod>2012-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/CV/publication/journal-article/2012-01-01_fine_tuning_of_rfxda/</loc>
+    <lastmod>2012-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/CV/authors/g.-toedt/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://borauyar.github.io/borauyar/authors/i.a.-vergara/</loc>
+    <loc>/CV/authors/h.-meiselbach/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://borauyar.github.io/borauyar/authors/j.-trinh/</loc>
+    <loc>/CV/authors/i.a.-vergara/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://borauyar.github.io/borauyar/authors/j.-wang/</loc>
+    <loc>/CV/authors/j.-trinh/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://borauyar.github.io/borauyar/authors/j.s.c.-chu/</loc>
+    <loc>/CV/authors/j.-wang/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://borauyar.github.io/borauyar/authors/k.-luck/</loc>
+    <loc>/CV/authors/j.s.c.-chu/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://borauyar.github.io/borauyar/authors/l.-jodicke/</loc>
+    <loc>/CV/authors/k.-luck/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://borauyar.github.io/borauyar/authors/m.-dymecka/</loc>
+    <loc>/CV/authors/l.-jodicke/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://borauyar.github.io/borauyar/authors/m.-hammer/</loc>
+    <loc>/CV/authors/m.-dymecka/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://borauyar.github.io/borauyar/authors/m.-tarailo-graovac/</loc>
+    <loc>/CV/authors/m.-hammer/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://borauyar.github.io/borauyar/authors/m.a.-dammert/</loc>
+    <loc>/CV/authors/m.-tarailo-graovac/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://borauyar.github.io/borauyar/authors/m.o.-steinmetz/</loc>
+    <loc>/CV/authors/m.a.-dammert/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://borauyar.github.io/borauyar/authors/m.r.-jones/</loc>
+    <loc>/CV/authors/m.o.-steinmetz/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://borauyar.github.io/borauyar/authors/n.-chen/</loc>
+    <loc>/CV/authors/m.r.-jones/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://borauyar.github.io/borauyar/authors/n.-haslam/</loc>
+    <loc>/CV/authors/n.-chen/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://borauyar.github.io/borauyar/authors/p.-jehl/</loc>
+    <loc>/CV/authors/n.-haslam/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://borauyar.github.io/borauyar/authors/r.j.-edwards/</loc>
+    <loc>/CV/authors/p.-jehl/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://borauyar.github.io/borauyar/publication/journal-article/2012-01-01_rna-seq_analysis_of_/</loc>
-    <lastmod>2012-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://borauyar.github.io/borauyar/authors/s.y.-chua/</loc>
+    <loc>/CV/authors/r.j.-edwards/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://borauyar.github.io/borauyar/authors/t.-schmidt/</loc>
+    <loc>/CV/publication/journal-article/2012-01-01_rna-seq_analysis_of_/</loc>
+    <lastmod>2012-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/CV/authors/s.y.-chua/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://borauyar.github.io/borauyar/authors/t.-wong/</loc>
+    <loc>/CV/authors/t.-schmidt/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://borauyar.github.io/borauyar/authors/j.s.-c.-chu/</loc>
+    <loc>/CV/authors/t.-wong/</loc>
+    <lastmod>2012-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/CV/authors/j.s.-c.-chu/</loc>
     <lastmod>2011-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://borauyar.github.io/borauyar/authors/k.-wang/</loc>
+    <loc>/CV/authors/k.-wang/</loc>
     <lastmod>2011-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://borauyar.github.io/borauyar/authors/r.-she/</loc>
+    <loc>/CV/authors/r.-she/</loc>
     <lastmod>2011-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://borauyar.github.io/borauyar/publication/journal-article/2011-01-01_genblastg_using_blas/</loc>
+    <loc>/CV/publication/journal-article/2011-01-01_genblastg_using_blas/</loc>
     <lastmod>2011-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://borauyar.github.io/borauyar/courses/</loc>
+    <loc>/CV/courses/</loc>
   </url>
   
 </urlset>

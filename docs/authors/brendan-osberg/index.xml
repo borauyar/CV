@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Brendan Osberg | Dr. Bora Uyar</title>
-    <link>https://borauyar.github.io/borauyar/authors/brendan-osberg/</link>
-      <atom:link href="https://borauyar.github.io/borauyar/authors/brendan-osberg/index.xml" rel="self" type="application/rss+xml" />
+    <link>/CV/authors/brendan-osberg/</link>
+      <atom:link href="/CV/authors/brendan-osberg/index.xml" rel="self" type="application/rss+xml" />
     <description>Brendan Osberg</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://borauyar.github.io/borauyar/img/icon-192.png</url>
+      <url>/CV/img/icon-192.png</url>
       <title>Brendan Osberg</title>
-      <link>https://borauyar.github.io/borauyar/authors/brendan-osberg/</link>
+      <link>/CV/authors/brendan-osberg/</link>
     </image>
     
     <item>
       <title>PiGx: Reproducible genomics analysis pipelines with {GNU} Guix</title>
-      <link>https://borauyar.github.io/borauyar/publication/journal-article/2018-01-01_pigx_reproducible_/</link>
+      <link>/CV/publication/journal-article/2018-01-01_pigx_reproducible_/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://borauyar.github.io/borauyar/publication/journal-article/2018-01-01_pigx_reproducible_/</guid>
+      <guid>/CV/publication/journal-article/2018-01-01_pigx_reproducible_/</guid>
       <description></description>
     </item>
     

@@ -2,1038 +2,1038 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors | Dr. Bora Uyar</title>
-    <link>https://borauyar.github.io/borauyar/authors/</link>
-      <atom:link href="https://borauyar.github.io/borauyar/authors/index.xml" rel="self" type="application/rss+xml" />
+    <link>/CV/authors/</link>
+      <atom:link href="/CV/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 05 Feb 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://borauyar.github.io/borauyar/img/icon-192.png</url>
+      <url>/CV/img/icon-192.png</url>
       <title>Authors</title>
-      <link>https://borauyar.github.io/borauyar/authors/</link>
+      <link>/CV/authors/</link>
     </image>
     
     <item>
       <title></title>
-      <link>https://borauyar.github.io/borauyar/authors/admin/</link>
+      <link>/CV/authors/admin/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://borauyar.github.io/borauyar/authors/admin/</guid>
+      <guid>/CV/authors/admin/</guid>
       <description>&lt;p&gt;Bora Uyar is a bioinformatics scientist at the Bioinformatics and Omics Data Science Platform of the Berlin Institute for Medical Systems Biology of the Max-Delbruck-Center in Berlin/Germany. His main aim is to apply his bioinformatics skills (such as machine learning, statistics, and programming) to further our understanding of human diseases at the molecular level. He is particularly interested in cancer biology, for which he integrates multiple sources of high-throughput sequencing (multi-omics) datasets measured at both bulk and single-cell level resolution. He is currently interested in how to decipher the disruptions in cellular identities using single-cell sequencing datasets and transfer this knowledge to bulk sequencing datasets available in large scale human sequencing projects such as TCGA and the ICGC/PCAWG. He is particularly curious about how E3 ligases involved in proteasome-mediated protein degradation are influential in determination of the cell identities, regulation of the cell cycle, response to the environment and how factors that lead to the mis-regulation of such enzyme complexes can determine the prognosis of cancer patients.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Altuna Akalin</title>
-      <link>https://borauyar.github.io/borauyar/authors/altuna-akalin/</link>
+      <link>/CV/authors/altuna-akalin/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://borauyar.github.io/borauyar/authors/altuna-akalin/</guid>
+      <guid>/CV/authors/altuna-akalin/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Baris Tursun</title>
-      <link>https://borauyar.github.io/borauyar/authors/baris-tursun/</link>
+      <link>/CV/authors/baris-tursun/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://borauyar.github.io/borauyar/authors/baris-tursun/</guid>
+      <guid>/CV/authors/baris-tursun/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bora Uyar</title>
-      <link>https://borauyar.github.io/borauyar/authors/bora-uyar/</link>
+      <link>/CV/authors/bora-uyar/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://borauyar.github.io/borauyar/authors/bora-uyar/</guid>
+      <guid>/CV/authors/bora-uyar/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Katarzyna Wreczycka</title>
-      <link>https://borauyar.github.io/borauyar/authors/katarzyna-wreczycka/</link>
+      <link>/CV/authors/katarzyna-wreczycka/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://borauyar.github.io/borauyar/authors/katarzyna-wreczycka/</guid>
+      <guid>/CV/authors/katarzyna-wreczycka/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ricardo Wurmus</title>
-      <link>https://borauyar.github.io/borauyar/authors/ricardo-wurmus/</link>
+      <link>/CV/authors/ricardo-wurmus/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://borauyar.github.io/borauyar/authors/ricardo-wurmus/</guid>
+      <guid>/CV/authors/ricardo-wurmus/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Selman Bulut</title>
-      <link>https://borauyar.github.io/borauyar/authors/selman-bulut/</link>
+      <link>/CV/authors/selman-bulut/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://borauyar.github.io/borauyar/authors/selman-bulut/</guid>
+      <guid>/CV/authors/selman-bulut/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Vedran Franke</title>
-      <link>https://borauyar.github.io/borauyar/authors/vedran-franke/</link>
+      <link>/CV/authors/vedran-franke/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://borauyar.github.io/borauyar/authors/vedran-franke/</guid>
+      <guid>/CV/authors/vedran-franke/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ahmet Bugra Tufan</title>
-      <link>https://borauyar.github.io/borauyar/authors/ahmet-bugra-tufan/</link>
+      <link>/CV/authors/ahmet-bugra-tufan/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://borauyar.github.io/borauyar/authors/ahmet-bugra-tufan/</guid>
+      <guid>/CV/authors/ahmet-bugra-tufan/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Akalin A</title>
-      <link>https://borauyar.github.io/borauyar/authors/akalin-a/</link>
+      <link>/CV/authors/akalin-a/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://borauyar.github.io/borauyar/authors/akalin-a/</guid>
+      <guid>/CV/authors/akalin-a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Alexander Gosdschan</title>
-      <link>https://borauyar.github.io/borauyar/authors/alexander-gosdschan/</link>
+      <link>/CV/authors/alexander-gosdschan/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://borauyar.github.io/borauyar/authors/alexander-gosdschan/</guid>
+      <guid>/CV/authors/alexander-gosdschan/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Baytek G</title>
-      <link>https://borauyar.github.io/borauyar/authors/baytek-g/</link>
+      <link>/CV/authors/baytek-g/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://borauyar.github.io/borauyar/authors/baytek-g/</guid>
+      <guid>/CV/authors/baytek-g/</guid>
       <description></description>
     </item>
     
     <item>
       <title>BjA¶rn Perder</title>
-      <link>https://borauyar.github.io/borauyar/authors/bjarn-perder/</link>
+      <link>/CV/authors/bjarn-perder/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://borauyar.github.io/borauyar/authors/bjarn-perder/</guid>
+      <guid>/CV/authors/bjarn-perder/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Brendan Osberg</title>
-      <link>https://borauyar.github.io/borauyar/authors/brendan-osberg/</link>
+      <link>/CV/authors/brendan-osberg/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://borauyar.github.io/borauyar/authors/brendan-osberg/</guid>
+      <guid>/CV/authors/brendan-osberg/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bulut SI</title>
-      <link>https://borauyar.github.io/borauyar/authors/bulut-si/</link>
+      <link>/CV/authors/bulut-si/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://borauyar.github.io/borauyar/authors/bulut-si/</guid>
+      <guid>/CV/authors/bulut-si/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cheng JY</title>
-      <link>https://borauyar.github.io/borauyar/authors/cheng-jy/</link>
+      <link>/CV/authors/cheng-jy/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://borauyar.github.io/borauyar/authors/cheng-jy/</guid>
+      <guid>/CV/authors/cheng-jy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Claus Scheidereit</title>
-      <link>https://borauyar.github.io/borauyar/authors/claus-scheidereit/</link>
+      <link>/CV/authors/claus-scheidereit/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://borauyar.github.io/borauyar/authors/claus-scheidereit/</guid>
+      <guid>/CV/authors/claus-scheidereit/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Diecke S</title>
-      <link>https://borauyar.github.io/borauyar/authors/diecke-s/</link>
+      <link>/CV/authors/diecke-s/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://borauyar.github.io/borauyar/authors/diecke-s/</guid>
+      <guid>/CV/authors/diecke-s/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Gerhardt H</title>
-      <link>https://borauyar.github.io/borauyar/authors/gerhardt-h/</link>
+      <link>/CV/authors/gerhardt-h/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://borauyar.github.io/borauyar/authors/gerhardt-h/</guid>
+      <guid>/CV/authors/gerhardt-h/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Gunnar Dittmar</title>
-      <link>https://borauyar.github.io/borauyar/authors/gunnar-dittmar/</link>
+      <link>/CV/authors/gunnar-dittmar/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://borauyar.github.io/borauyar/authors/gunnar-dittmar/</guid>
+      <guid>/CV/authors/gunnar-dittmar/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Haucke V</title>
-      <link>https://borauyar.github.io/borauyar/authors/haucke-v/</link>
+      <link>/CV/authors/haucke-v/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://borauyar.github.io/borauyar/authors/haucke-v/</guid>
+      <guid>/CV/authors/haucke-v/</guid>
       <description></description>
     </item>
     
     <item>
       <title>He M</title>
-      <link>https://borauyar.github.io/borauyar/authors/he-m/</link>
+      <link>/CV/authors/he-m/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://borauyar.github.io/borauyar/authors/he-m/</guid>
+      <guid>/CV/authors/he-m/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hernandez-Miranda LR</title>
-      <link>https://borauyar.github.io/borauyar/authors/hernandez-miranda-lr/</link>
+      <link>/CV/authors/hernandez-miranda-lr/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://borauyar.github.io/borauyar/authors/hernandez-miranda-lr/</guid>
+      <guid>/CV/authors/hernandez-miranda-lr/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hirsekorn A</title>
-      <link>https://borauyar.github.io/borauyar/authors/hirsekorn-a/</link>
+      <link>/CV/authors/hirsekorn-a/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://borauyar.github.io/borauyar/authors/hirsekorn-a/</guid>
+      <guid>/CV/authors/hirsekorn-a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Jonathan Ronen</title>
-      <link>https://borauyar.github.io/borauyar/authors/jonathan-ronen/</link>
+      <link>/CV/authors/jonathan-ronen/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://borauyar.github.io/borauyar/authors/jonathan-ronen/</guid>
+      <guid>/CV/authors/jonathan-ronen/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kirchner M</title>
-      <link>https://borauyar.github.io/borauyar/authors/kirchner-m/</link>
+      <link>/CV/authors/kirchner-m/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://borauyar.github.io/borauyar/authors/kirchner-m/</guid>
+      <guid>/CV/authors/kirchner-m/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kolundzic E</title>
-      <link>https://borauyar.github.io/borauyar/authors/kolundzic-e/</link>
+      <link>/CV/authors/kolundzic-e/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://borauyar.github.io/borauyar/authors/kolundzic-e/</guid>
+      <guid>/CV/authors/kolundzic-e/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Lacadie SA</title>
-      <link>https://borauyar.github.io/borauyar/authors/lacadie-sa/</link>
+      <link>/CV/authors/lacadie-sa/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://borauyar.github.io/borauyar/authors/lacadie-sa/</guid>
+      <guid>/CV/authors/lacadie-sa/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Marina Kolesnichenko</title>
-      <link>https://borauyar.github.io/borauyar/authors/marina-kolesnichenko/</link>
+      <link>/CV/authors/marina-kolesnichenko/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://borauyar.github.io/borauyar/authors/marina-kolesnichenko/</guid>
+      <guid>/CV/authors/marina-kolesnichenko/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Meyer K</title>
-      <link>https://borauyar.github.io/borauyar/authors/meyer-k/</link>
+      <link>/CV/authors/meyer-k/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://borauyar.github.io/borauyar/authors/meyer-k/</guid>
+      <guid>/CV/authors/meyer-k/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Michael Hinz</title>
-      <link>https://borauyar.github.io/borauyar/authors/michael-hinz/</link>
+      <link>/CV/authors/michael-hinz/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://borauyar.github.io/borauyar/authors/michael-hinz/</guid>
+      <guid>/CV/authors/michael-hinz/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Nadine Mikuda</title>
-      <link>https://borauyar.github.io/borauyar/authors/nadine-mikuda/</link>
+      <link>/CV/authors/nadine-mikuda/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://borauyar.github.io/borauyar/authors/nadine-mikuda/</guid>
+      <guid>/CV/authors/nadine-mikuda/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ofenbauer A</title>
-      <link>https://borauyar.github.io/borauyar/authors/ofenbauer-a/</link>
+      <link>/CV/authors/ofenbauer-a/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://borauyar.github.io/borauyar/authors/ofenbauer-a/</guid>
+      <guid>/CV/authors/ofenbauer-a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Oliver Popp</title>
-      <link>https://borauyar.github.io/borauyar/authors/oliver-popp/</link>
+      <link>/CV/authors/oliver-popp/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://borauyar.github.io/borauyar/authors/oliver-popp/</guid>
+      <guid>/CV/authors/oliver-popp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Patrick Beaudette</title>
-      <link>https://borauyar.github.io/borauyar/authors/patrick-beaudette/</link>
+      <link>/CV/authors/patrick-beaudette/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://borauyar.github.io/borauyar/authors/patrick-beaudette/</guid>
+      <guid>/CV/authors/patrick-beaudette/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Philipp Mertins</title>
-      <link>https://borauyar.github.io/borauyar/authors/philipp-mertins/</link>
+      <link>/CV/authors/philipp-mertins/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://borauyar.github.io/borauyar/authors/philipp-mertins/</guid>
+      <guid>/CV/authors/philipp-mertins/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Rudolph IM</title>
-      <link>https://borauyar.github.io/borauyar/authors/rudolph-im/</link>
+      <link>/CV/authors/rudolph-im/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://borauyar.github.io/borauyar/authors/rudolph-im/</guid>
+      <guid>/CV/authors/rudolph-im/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Russo G</title>
-      <link>https://borauyar.github.io/borauyar/authors/russo-g/</link>
+      <link>/CV/authors/russo-g/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://borauyar.github.io/borauyar/authors/russo-g/</guid>
+      <guid>/CV/authors/russo-g/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Seelk S</title>
-      <link>https://borauyar.github.io/borauyar/authors/seelk-s/</link>
+      <link>/CV/authors/seelk-s/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://borauyar.github.io/borauyar/authors/seelk-s/</guid>
+      <guid>/CV/authors/seelk-s/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Selbach M</title>
-      <link>https://borauyar.github.io/borauyar/authors/selbach-m/</link>
+      <link>/CV/authors/selbach-m/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://borauyar.github.io/borauyar/authors/selbach-m/</guid>
+      <guid>/CV/authors/selbach-m/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sommermeier A</title>
-      <link>https://borauyar.github.io/borauyar/authors/sommermeier-a/</link>
+      <link>/CV/authors/sommermeier-a/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://borauyar.github.io/borauyar/authors/sommermeier-a/</guid>
+      <guid>/CV/authors/sommermeier-a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Szymborska A</title>
-      <link>https://borauyar.github.io/borauyar/authors/szymborska-a/</link>
+      <link>/CV/authors/szymborska-a/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://borauyar.github.io/borauyar/authors/szymborska-a/</guid>
+      <guid>/CV/authors/szymborska-a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tursun B</title>
-      <link>https://borauyar.github.io/borauyar/authors/tursun-b/</link>
+      <link>/CV/authors/tursun-b/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://borauyar.github.io/borauyar/authors/tursun-b/</guid>
+      <guid>/CV/authors/tursun-b/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Uyar B</title>
-      <link>https://borauyar.github.io/borauyar/authors/uyar-b/</link>
+      <link>/CV/authors/uyar-b/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://borauyar.github.io/borauyar/authors/uyar-b/</guid>
+      <guid>/CV/authors/uyar-b/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Vucicevic D</title>
-      <link>https://borauyar.github.io/borauyar/authors/vucicevic-d/</link>
+      <link>/CV/authors/vucicevic-d/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://borauyar.github.io/borauyar/authors/vucicevic-d/</guid>
+      <guid>/CV/authors/vucicevic-d/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Wei Chen</title>
-      <link>https://borauyar.github.io/borauyar/authors/wei-chen/</link>
+      <link>/CV/authors/wei-chen/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://borauyar.github.io/borauyar/authors/wei-chen/</guid>
+      <guid>/CV/authors/wei-chen/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Wei Sun</title>
-      <link>https://borauyar.github.io/borauyar/authors/wei-sun/</link>
+      <link>/CV/authors/wei-sun/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://borauyar.github.io/borauyar/authors/wei-sun/</guid>
+      <guid>/CV/authors/wei-sun/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Willnow TE</title>
-      <link>https://borauyar.github.io/borauyar/authors/willnow-te/</link>
+      <link>/CV/authors/willnow-te/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://borauyar.github.io/borauyar/authors/willnow-te/</guid>
+      <guid>/CV/authors/willnow-te/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Zauber H</title>
-      <link>https://borauyar.github.io/borauyar/authors/zauber-h/</link>
+      <link>/CV/authors/zauber-h/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://borauyar.github.io/borauyar/authors/zauber-h/</guid>
+      <guid>/CV/authors/zauber-h/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Balint Meszaros</title>
-      <link>https://borauyar.github.io/borauyar/authors/balint-meszaros/</link>
+      <link>/CV/authors/balint-meszaros/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://borauyar.github.io/borauyar/authors/balint-meszaros/</guid>
+      <guid>/CV/authors/balint-meszaros/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Manjeet Kumar</title>
-      <link>https://borauyar.github.io/borauyar/authors/manjeet-kumar/</link>
+      <link>/CV/authors/manjeet-kumar/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://borauyar.github.io/borauyar/authors/manjeet-kumar/</guid>
+      <guid>/CV/authors/manjeet-kumar/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ohler U</title>
-      <link>https://borauyar.github.io/borauyar/authors/ohler-u/</link>
+      <link>/CV/authors/ohler-u/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://borauyar.github.io/borauyar/authors/ohler-u/</guid>
+      <guid>/CV/authors/ohler-u/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Rajewsky N</title>
-      <link>https://borauyar.github.io/borauyar/authors/rajewsky-n/</link>
+      <link>/CV/authors/rajewsky-n/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://borauyar.github.io/borauyar/authors/rajewsky-n/</guid>
+      <guid>/CV/authors/rajewsky-n/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Toby J. Gibson</title>
-      <link>https://borauyar.github.io/borauyar/authors/toby-j.-gibson/</link>
+      <link>/CV/authors/toby-j.-gibson/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://borauyar.github.io/borauyar/authors/toby-j.-gibson/</guid>
+      <guid>/CV/authors/toby-j.-gibson/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Wurmus R</title>
-      <link>https://borauyar.github.io/borauyar/authors/wurmus-r/</link>
+      <link>/CV/authors/wurmus-r/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://borauyar.github.io/borauyar/authors/wurmus-r/</guid>
+      <guid>/CV/authors/wurmus-r/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Yusuf D</title>
-      <link>https://borauyar.github.io/borauyar/authors/yusuf-d/</link>
+      <link>/CV/authors/yusuf-d/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://borauyar.github.io/borauyar/authors/yusuf-d/</guid>
+      <guid>/CV/authors/yusuf-d/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Zsuzsanna Dosztanyi</title>
-      <link>https://borauyar.github.io/borauyar/authors/zsuzsanna-dosztanyi/</link>
+      <link>/CV/authors/zsuzsanna-dosztanyi/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://borauyar.github.io/borauyar/authors/zsuzsanna-dosztanyi/</guid>
+      <guid>/CV/authors/zsuzsanna-dosztanyi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A. Behrendt</title>
-      <link>https://borauyar.github.io/borauyar/authors/a.-behrendt/</link>
+      <link>/CV/authors/a.-behrendt/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://borauyar.github.io/borauyar/authors/a.-behrendt/</guid>
+      <guid>/CV/authors/a.-behrendt/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A. Staudt</title>
-      <link>https://borauyar.github.io/borauyar/authors/a.-staudt/</link>
+      <link>/CV/authors/a.-staudt/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://borauyar.github.io/borauyar/authors/a.-staudt/</guid>
+      <guid>/CV/authors/a.-staudt/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A.C. Knudsen</title>
-      <link>https://borauyar.github.io/borauyar/authors/a.c.-knudsen/</link>
+      <link>/CV/authors/a.c.-knudsen/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://borauyar.github.io/borauyar/authors/a.c.-knudsen/</guid>
+      <guid>/CV/authors/a.c.-knudsen/</guid>
       <description></description>
     </item>
     
     <item>
       <title>B. Altenberg</title>
-      <link>https://borauyar.github.io/borauyar/authors/b.-altenberg/</link>
+      <link>/CV/authors/b.-altenberg/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://borauyar.github.io/borauyar/authors/b.-altenberg/</guid>
+      <guid>/CV/authors/b.-altenberg/</guid>
       <description></description>
     </item>
     
     <item>
       <title>B. Uyar</title>
-      <link>https://borauyar.github.io/borauyar/authors/b.-uyar/</link>
+      <link>/CV/authors/b.-uyar/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://borauyar.github.io/borauyar/authors/b.-uyar/</guid>
+      <guid>/CV/authors/b.-uyar/</guid>
       <description></description>
     </item>
     
     <item>
       <title>C. Mader</title>
-      <link>https://borauyar.github.io/borauyar/authors/c.-mader/</link>
+      <link>/CV/authors/c.-mader/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://borauyar.github.io/borauyar/authors/c.-mader/</guid>
+      <guid>/CV/authors/c.-mader/</guid>
       <description></description>
     </item>
     
     <item>
       <title>F. Diella</title>
-      <link>https://borauyar.github.io/borauyar/authors/f.-diella/</link>
+      <link>/CV/authors/f.-diella/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://borauyar.github.io/borauyar/authors/f.-diella/</guid>
+      <guid>/CV/authors/f.-diella/</guid>
       <description></description>
     </item>
     
     <item>
       <title>H. Dinkel</title>
-      <link>https://borauyar.github.io/borauyar/authors/h.-dinkel/</link>
+      <link>/CV/authors/h.-dinkel/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://borauyar.github.io/borauyar/authors/h.-dinkel/</guid>
+      <guid>/CV/authors/h.-dinkel/</guid>
       <description></description>
     </item>
     
     <item>
       <title>H. Kuhn</title>
-      <link>https://borauyar.github.io/borauyar/authors/h.-kuhn/</link>
+      <link>/CV/authors/h.-kuhn/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://borauyar.github.io/borauyar/authors/h.-kuhn/</guid>
+      <guid>/CV/authors/h.-kuhn/</guid>
       <description></description>
     </item>
     
     <item>
       <title>K. Roey</title>
-      <link>https://borauyar.github.io/borauyar/authors/k.-roey/</link>
+      <link>/CV/authors/k.-roey/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://borauyar.github.io/borauyar/authors/k.-roey/</guid>
+      <guid>/CV/authors/k.-roey/</guid>
       <description></description>
     </item>
     
     <item>
       <title>L. Welti</title>
-      <link>https://borauyar.github.io/borauyar/authors/l.-welti/</link>
+      <link>/CV/authors/l.-welti/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://borauyar.github.io/borauyar/authors/l.-welti/</guid>
+      <guid>/CV/authors/l.-welti/</guid>
       <description></description>
     </item>
     
     <item>
       <title>M. Kumar</title>
-      <link>https://borauyar.github.io/borauyar/authors/m.-kumar/</link>
+      <link>/CV/authors/m.-kumar/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://borauyar.github.io/borauyar/authors/m.-kumar/</guid>
+      <guid>/CV/authors/m.-kumar/</guid>
       <description></description>
     </item>
     
     <item>
       <title>M. Schneider</title>
-      <link>https://borauyar.github.io/borauyar/authors/m.-schneider/</link>
+      <link>/CV/authors/m.-schneider/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://borauyar.github.io/borauyar/authors/m.-schneider/</guid>
+      <guid>/CV/authors/m.-schneider/</guid>
       <description></description>
     </item>
     
     <item>
       <title>N.E. Davey</title>
-      <link>https://borauyar.github.io/borauyar/authors/n.e.-davey/</link>
+      <link>/CV/authors/n.e.-davey/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://borauyar.github.io/borauyar/authors/n.e.-davey/</guid>
+      <guid>/CV/authors/n.e.-davey/</guid>
       <description></description>
     </item>
     
     <item>
       <title>S. Diebel</title>
-      <link>https://borauyar.github.io/borauyar/authors/s.-diebel/</link>
+      <link>/CV/authors/s.-diebel/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://borauyar.github.io/borauyar/authors/s.-diebel/</guid>
+      <guid>/CV/authors/s.-diebel/</guid>
       <description></description>
     </item>
     
     <item>
       <title>S. Kalman</title>
-      <link>https://borauyar.github.io/borauyar/authors/s.-kalman/</link>
+      <link>/CV/authors/s.-kalman/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://borauyar.github.io/borauyar/authors/s.-kalman/</guid>
+      <guid>/CV/authors/s.-kalman/</guid>
       <description></description>
     </item>
     
     <item>
       <title>S. Klein</title>
-      <link>https://borauyar.github.io/borauyar/authors/s.-klein/</link>
+      <link>/CV/authors/s.-klein/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://borauyar.github.io/borauyar/authors/s.-klein/</guid>
+      <guid>/CV/authors/s.-klein/</guid>
       <description></description>
     </item>
     
     <item>
       <title>S. Merrill</title>
-      <link>https://borauyar.github.io/borauyar/authors/s.-merrill/</link>
+      <link>/CV/authors/s.-merrill/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://borauyar.github.io/borauyar/authors/s.-merrill/</guid>
+      <guid>/CV/authors/s.-merrill/</guid>
       <description></description>
     </item>
     
     <item>
       <title>S. Michael</title>
-      <link>https://borauyar.github.io/borauyar/authors/s.-michael/</link>
+      <link>/CV/authors/s.-michael/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://borauyar.github.io/borauyar/authors/s.-michael/</guid>
+      <guid>/CV/authors/s.-michael/</guid>
       <description></description>
     </item>
     
     <item>
       <title>S.L. Dahl</title>
-      <link>https://borauyar.github.io/borauyar/authors/s.l.-dahl/</link>
+      <link>/CV/authors/s.l.-dahl/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://borauyar.github.io/borauyar/authors/s.l.-dahl/</guid>
+      <guid>/CV/authors/s.l.-dahl/</guid>
       <description></description>
     </item>
     
     <item>
       <title>T.J. Gibson</title>
-      <link>https://borauyar.github.io/borauyar/authors/t.j.-gibson/</link>
+      <link>/CV/authors/t.j.-gibson/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://borauyar.github.io/borauyar/authors/t.j.-gibson/</guid>
+      <guid>/CV/authors/t.j.-gibson/</guid>
       <description></description>
     </item>
     
     <item>
       <title>V. Damerell</title>
-      <link>https://borauyar.github.io/borauyar/authors/v.-damerell/</link>
+      <link>/CV/authors/v.-damerell/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://borauyar.github.io/borauyar/authors/v.-damerell/</guid>
+      <guid>/CV/authors/v.-damerell/</guid>
       <description></description>
     </item>
     
     <item>
       <title>V. Milchevskaya</title>
-      <link>https://borauyar.github.io/borauyar/authors/v.-milchevskaya/</link>
+      <link>/CV/authors/v.-milchevskaya/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://borauyar.github.io/borauyar/authors/v.-milchevskaya/</guid>
+      <guid>/CV/authors/v.-milchevskaya/</guid>
       <description></description>
     </item>
     
     <item>
       <title>V. Thiel</title>
-      <link>https://borauyar.github.io/borauyar/authors/v.-thiel/</link>
+      <link>/CV/authors/v.-thiel/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://borauyar.github.io/borauyar/authors/v.-thiel/</guid>
+      <guid>/CV/authors/v.-thiel/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A. Via</title>
-      <link>https://borauyar.github.io/borauyar/authors/a.-via/</link>
+      <link>/CV/authors/a.-via/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://borauyar.github.io/borauyar/authors/a.-via/</guid>
+      <guid>/CV/authors/a.-via/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A. Zanzoni</title>
-      <link>https://borauyar.github.io/borauyar/authors/a.-zanzoni/</link>
+      <link>/CV/authors/a.-zanzoni/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://borauyar.github.io/borauyar/authors/a.-zanzoni/</guid>
+      <guid>/CV/authors/a.-zanzoni/</guid>
       <description></description>
     </item>
     
     <item>
       <title>C. Brun</title>
-      <link>https://borauyar.github.io/borauyar/authors/c.-brun/</link>
+      <link>/CV/authors/c.-brun/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://borauyar.github.io/borauyar/authors/c.-brun/</guid>
+      <guid>/CV/authors/c.-brun/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A. Budd</title>
-      <link>https://borauyar.github.io/borauyar/authors/a.-budd/</link>
+      <link>/CV/authors/a.-budd/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://borauyar.github.io/borauyar/authors/a.-budd/</guid>
+      <guid>/CV/authors/a.-budd/</guid>
       <description></description>
     </item>
     
     <item>
       <title>D. Born</title>
-      <link>https://borauyar.github.io/borauyar/authors/d.-born/</link>
+      <link>/CV/authors/d.-born/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://borauyar.github.io/borauyar/authors/d.-born/</guid>
+      <guid>/CV/authors/d.-born/</guid>
       <description></description>
     </item>
     
     <item>
       <title>D. Kruger</title>
-      <link>https://borauyar.github.io/borauyar/authors/d.-kruger/</link>
+      <link>/CV/authors/d.-kruger/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://borauyar.github.io/borauyar/authors/d.-kruger/</guid>
+      <guid>/CV/authors/d.-kruger/</guid>
       <description></description>
     </item>
     
     <item>
       <title>G. Grebnev</title>
-      <link>https://borauyar.github.io/borauyar/authors/g.-grebnev/</link>
+      <link>/CV/authors/g.-grebnev/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://borauyar.github.io/borauyar/authors/g.-grebnev/</guid>
+      <guid>/CV/authors/g.-grebnev/</guid>
       <description></description>
     </item>
     
     <item>
       <title>I.E. Sanchez</title>
-      <link>https://borauyar.github.io/borauyar/authors/i.e.-sanchez/</link>
+      <link>/CV/authors/i.e.-sanchez/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://borauyar.github.io/borauyar/authors/i.e.-sanchez/</guid>
+      <guid>/CV/authors/i.e.-sanchez/</guid>
       <description></description>
     </item>
     
     <item>
       <title>J. Glavina</title>
-      <link>https://borauyar.github.io/borauyar/authors/j.-glavina/</link>
+      <link>/CV/authors/j.-glavina/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://borauyar.github.io/borauyar/authors/j.-glavina/</guid>
+      <guid>/CV/authors/j.-glavina/</guid>
       <description></description>
     </item>
     
     <item>
       <title>K. {Van Roey}</title>
-      <link>https://borauyar.github.io/borauyar/authors/k.-van-roey/</link>
+      <link>/CV/authors/k.-van-roey/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://borauyar.github.io/borauyar/authors/k.-van-roey/</guid>
+      <guid>/CV/authors/k.-van-roey/</guid>
       <description></description>
     </item>
     
     <item>
       <title>L.B. Chemes</title>
-      <link>https://borauyar.github.io/borauyar/authors/l.b.-chemes/</link>
+      <link>/CV/authors/l.b.-chemes/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://borauyar.github.io/borauyar/authors/l.b.-chemes/</guid>
+      <guid>/CV/authors/l.b.-chemes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>M. Kuba?</title>
-      <link>https://borauyar.github.io/borauyar/authors/m.-kuba/</link>
+      <link>/CV/authors/m.-kuba/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://borauyar.github.io/borauyar/authors/m.-kuba/</guid>
+      <guid>/CV/authors/m.-kuba/</guid>
       <description></description>
     </item>
     
     <item>
       <title>M. Seiler</title>
-      <link>https://borauyar.github.io/borauyar/authors/m.-seiler/</link>
+      <link>/CV/authors/m.-seiler/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://borauyar.github.io/borauyar/authors/m.-seiler/</guid>
+      <guid>/CV/authors/m.-seiler/</guid>
       <description></description>
     </item>
     
     <item>
       <title>M. Strumillo</title>
-      <link>https://borauyar.github.io/borauyar/authors/m.-strumillo/</link>
+      <link>/CV/authors/m.-strumillo/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://borauyar.github.io/borauyar/authors/m.-strumillo/</guid>
+      <guid>/CV/authors/m.-strumillo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R.J. Weatheritt</title>
-      <link>https://borauyar.github.io/borauyar/authors/r.j.-weatheritt/</link>
+      <link>/CV/authors/r.j.-weatheritt/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://borauyar.github.io/borauyar/authors/r.j.-weatheritt/</guid>
+      <guid>/CV/authors/r.j.-weatheritt/</guid>
       <description></description>
     </item>
     
     <item>
       <title>T. Speck</title>
-      <link>https://borauyar.github.io/borauyar/authors/t.-speck/</link>
+      <link>/CV/authors/t.-speck/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://borauyar.github.io/borauyar/authors/t.-speck/</guid>
+      <guid>/CV/authors/t.-speck/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A. Chatr-Aryamontri</title>
-      <link>https://borauyar.github.io/borauyar/authors/a.-chatr-aryamontri/</link>
+      <link>/CV/authors/a.-chatr-aryamontri/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://borauyar.github.io/borauyar/authors/a.-chatr-aryamontri/</guid>
+      <guid>/CV/authors/a.-chatr-aryamontri/</guid>
       <description></description>
     </item>
     
     <item>
       <title>C. Chica</title>
-      <link>https://borauyar.github.io/borauyar/authors/c.-chica/</link>
+      <link>/CV/authors/c.-chica/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://borauyar.github.io/borauyar/authors/c.-chica/</guid>
+      <guid>/CV/authors/c.-chica/</guid>
       <description></description>
     </item>
     
     <item>
       <title>C. McGuigan</title>
-      <link>https://borauyar.github.io/borauyar/authors/c.-mcguigan/</link>
+      <link>/CV/authors/c.-mcguigan/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://borauyar.github.io/borauyar/authors/c.-mcguigan/</guid>
+      <guid>/CV/authors/c.-mcguigan/</guid>
       <description></description>
     </item>
     
     <item>
       <title>C. Schroeter</title>
-      <link>https://borauyar.github.io/borauyar/authors/c.-schroeter/</link>
+      <link>/CV/authors/c.-schroeter/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://borauyar.github.io/borauyar/authors/c.-schroeter/</guid>
+      <guid>/CV/authors/c.-schroeter/</guid>
       <description></description>
     </item>
     
     <item>
       <title>D. Tu</title>
-      <link>https://borauyar.github.io/borauyar/authors/d.-tu/</link>
+      <link>/CV/authors/d.-tu/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://borauyar.github.io/borauyar/authors/d.-tu/</guid>
+      <guid>/CV/authors/d.-tu/</guid>
       <description></description>
     </item>
     
     <item>
       <title>D. Zhang</title>
-      <link>https://borauyar.github.io/borauyar/authors/d.-zhang/</link>
+      <link>/CV/authors/d.-zhang/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://borauyar.github.io/borauyar/authors/d.-zhang/</guid>
+      <guid>/CV/authors/d.-zhang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>D.L. Baillie</title>
-      <link>https://borauyar.github.io/borauyar/authors/d.l.-baillie/</link>
+      <link>/CV/authors/d.l.-baillie/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://borauyar.github.io/borauyar/authors/d.l.-baillie/</guid>
+      <guid>/CV/authors/d.l.-baillie/</guid>
       <description></description>
     </item>
     
     <item>
       <title>G. Toedt</title>
-      <link>https://borauyar.github.io/borauyar/authors/g.-toedt/</link>
+      <link>/CV/authors/g.-toedt/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://borauyar.github.io/borauyar/authors/g.-toedt/</guid>
+      <guid>/CV/authors/g.-toedt/</guid>
       <description></description>
     </item>
     
     <item>
       <title>H. Meiselbach</title>
-      <link>https://borauyar.github.io/borauyar/authors/h.-meiselbach/</link>
+      <link>/CV/authors/h.-meiselbach/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://borauyar.github.io/borauyar/authors/h.-meiselbach/</guid>
+      <guid>/CV/authors/h.-meiselbach/</guid>
       <description></description>
     </item>
     
     <item>
       <title>I.A. Vergara</title>
-      <link>https://borauyar.github.io/borauyar/authors/i.a.-vergara/</link>
+      <link>/CV/authors/i.a.-vergara/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://borauyar.github.io/borauyar/authors/i.a.-vergara/</guid>
+      <guid>/CV/authors/i.a.-vergara/</guid>
       <description></description>
     </item>
     
     <item>
       <title>J. Trinh</title>
-      <link>https://borauyar.github.io/borauyar/authors/j.-trinh/</link>
+      <link>/CV/authors/j.-trinh/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://borauyar.github.io/borauyar/authors/j.-trinh/</guid>
+      <guid>/CV/authors/j.-trinh/</guid>
       <description></description>
     </item>
     
     <item>
       <title>J. Wang</title>
-      <link>https://borauyar.github.io/borauyar/authors/j.-wang/</link>
+      <link>/CV/authors/j.-wang/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://borauyar.github.io/borauyar/authors/j.-wang/</guid>
+      <guid>/CV/authors/j.-wang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>J.S.C. Chu</title>
-      <link>https://borauyar.github.io/borauyar/authors/j.s.c.-chu/</link>
+      <link>/CV/authors/j.s.c.-chu/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://borauyar.github.io/borauyar/authors/j.s.c.-chu/</guid>
+      <guid>/CV/authors/j.s.c.-chu/</guid>
       <description></description>
     </item>
     
     <item>
       <title>K. Luck</title>
-      <link>https://borauyar.github.io/borauyar/authors/k.-luck/</link>
+      <link>/CV/authors/k.-luck/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://borauyar.github.io/borauyar/authors/k.-luck/</guid>
+      <guid>/CV/authors/k.-luck/</guid>
       <description></description>
     </item>
     
     <item>
       <title>L. Jodicke</title>
-      <link>https://borauyar.github.io/borauyar/authors/l.-jodicke/</link>
+      <link>/CV/authors/l.-jodicke/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://borauyar.github.io/borauyar/authors/l.-jodicke/</guid>
+      <guid>/CV/authors/l.-jodicke/</guid>
       <description></description>
     </item>
     
     <item>
       <title>M. Dymecka</title>
-      <link>https://borauyar.github.io/borauyar/authors/m.-dymecka/</link>
+      <link>/CV/authors/m.-dymecka/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://borauyar.github.io/borauyar/authors/m.-dymecka/</guid>
+      <guid>/CV/authors/m.-dymecka/</guid>
       <description></description>
     </item>
     
     <item>
       <title>M. Hammer</title>
-      <link>https://borauyar.github.io/borauyar/authors/m.-hammer/</link>
+      <link>/CV/authors/m.-hammer/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://borauyar.github.io/borauyar/authors/m.-hammer/</guid>
+      <guid>/CV/authors/m.-hammer/</guid>
       <description></description>
     </item>
     
     <item>
       <title>M. Tarailo-Graovac</title>
-      <link>https://borauyar.github.io/borauyar/authors/m.-tarailo-graovac/</link>
+      <link>/CV/authors/m.-tarailo-graovac/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://borauyar.github.io/borauyar/authors/m.-tarailo-graovac/</guid>
+      <guid>/CV/authors/m.-tarailo-graovac/</guid>
       <description></description>
     </item>
     
     <item>
       <title>M.A. Dammert</title>
-      <link>https://borauyar.github.io/borauyar/authors/m.a.-dammert/</link>
+      <link>/CV/authors/m.a.-dammert/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://borauyar.github.io/borauyar/authors/m.a.-dammert/</guid>
+      <guid>/CV/authors/m.a.-dammert/</guid>
       <description></description>
     </item>
     
     <item>
       <title>M.O. Steinmetz</title>
-      <link>https://borauyar.github.io/borauyar/authors/m.o.-steinmetz/</link>
+      <link>/CV/authors/m.o.-steinmetz/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://borauyar.github.io/borauyar/authors/m.o.-steinmetz/</guid>
+      <guid>/CV/authors/m.o.-steinmetz/</guid>
       <description></description>
     </item>
     
     <item>
       <title>M.R. Jones</title>
-      <link>https://borauyar.github.io/borauyar/authors/m.r.-jones/</link>
+      <link>/CV/authors/m.r.-jones/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://borauyar.github.io/borauyar/authors/m.r.-jones/</guid>
+      <guid>/CV/authors/m.r.-jones/</guid>
       <description></description>
     </item>
     
     <item>
       <title>N. Chen</title>
-      <link>https://borauyar.github.io/borauyar/authors/n.-chen/</link>
+      <link>/CV/authors/n.-chen/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://borauyar.github.io/borauyar/authors/n.-chen/</guid>
+      <guid>/CV/authors/n.-chen/</guid>
       <description></description>
     </item>
     
     <item>
       <title>N. Haslam</title>
-      <link>https://borauyar.github.io/borauyar/authors/n.-haslam/</link>
+      <link>/CV/authors/n.-haslam/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://borauyar.github.io/borauyar/authors/n.-haslam/</guid>
+      <guid>/CV/authors/n.-haslam/</guid>
       <description></description>
     </item>
     
     <item>
       <title>P. Jehl</title>
-      <link>https://borauyar.github.io/borauyar/authors/p.-jehl/</link>
+      <link>/CV/authors/p.-jehl/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://borauyar.github.io/borauyar/authors/p.-jehl/</guid>
+      <guid>/CV/authors/p.-jehl/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R.J. Edwards</title>
-      <link>https://borauyar.github.io/borauyar/authors/r.j.-edwards/</link>
+      <link>/CV/authors/r.j.-edwards/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://borauyar.github.io/borauyar/authors/r.j.-edwards/</guid>
+      <guid>/CV/authors/r.j.-edwards/</guid>
       <description></description>
     </item>
     
     <item>
       <title>S.Y. Chua</title>
-      <link>https://borauyar.github.io/borauyar/authors/s.y.-chua/</link>
+      <link>/CV/authors/s.y.-chua/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://borauyar.github.io/borauyar/authors/s.y.-chua/</guid>
+      <guid>/CV/authors/s.y.-chua/</guid>
       <description></description>
     </item>
     
     <item>
       <title>T. Schmidt</title>
-      <link>https://borauyar.github.io/borauyar/authors/t.-schmidt/</link>
+      <link>/CV/authors/t.-schmidt/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://borauyar.github.io/borauyar/authors/t.-schmidt/</guid>
+      <guid>/CV/authors/t.-schmidt/</guid>
       <description></description>
     </item>
     
     <item>
       <title>T. Wong</title>
-      <link>https://borauyar.github.io/borauyar/authors/t.-wong/</link>
+      <link>/CV/authors/t.-wong/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://borauyar.github.io/borauyar/authors/t.-wong/</guid>
+      <guid>/CV/authors/t.-wong/</guid>
       <description></description>
     </item>
     
     <item>
       <title>J.S.-C. Chu</title>
-      <link>https://borauyar.github.io/borauyar/authors/j.s.-c.-chu/</link>
+      <link>/CV/authors/j.s.-c.-chu/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>https://borauyar.github.io/borauyar/authors/j.s.-c.-chu/</guid>
+      <guid>/CV/authors/j.s.-c.-chu/</guid>
       <description></description>
     </item>
     
     <item>
       <title>K. Wang</title>
-      <link>https://borauyar.github.io/borauyar/authors/k.-wang/</link>
+      <link>/CV/authors/k.-wang/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>https://borauyar.github.io/borauyar/authors/k.-wang/</guid>
+      <guid>/CV/authors/k.-wang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R. She</title>
-      <link>https://borauyar.github.io/borauyar/authors/r.-she/</link>
+      <link>/CV/authors/r.-she/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>https://borauyar.github.io/borauyar/authors/r.-she/</guid>
+      <guid>/CV/authors/r.-she/</guid>
       <description></description>
     </item>
     

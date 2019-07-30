@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>J. Wang | Dr. Bora Uyar</title>
-    <link>https://borauyar.github.io/borauyar/authors/j.-wang/</link>
-      <atom:link href="https://borauyar.github.io/borauyar/authors/j.-wang/index.xml" rel="self" type="application/rss+xml" />
+    <link>/CV/authors/j.-wang/</link>
+      <atom:link href="/CV/authors/j.-wang/index.xml" rel="self" type="application/rss+xml" />
     <description>J. Wang</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://borauyar.github.io/borauyar/img/icon-192.png</url>
+      <url>/CV/img/icon-192.png</url>
       <title>J. Wang</title>
-      <link>https://borauyar.github.io/borauyar/authors/j.-wang/</link>
+      <link>/CV/authors/j.-wang/</link>
     </image>
     
     <item>
       <title>Fine tuning of RFX/DAF-19-regulated target gene expression through binding to multiple sites in Caenorhabditis elegans</title>
-      <link>https://borauyar.github.io/borauyar/publication/journal-article/2012-01-01_fine_tuning_of_rfxda/</link>
+      <link>/CV/publication/journal-article/2012-01-01_fine_tuning_of_rfxda/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://borauyar.github.io/borauyar/publication/journal-article/2012-01-01_fine_tuning_of_rfxda/</guid>
+      <guid>/CV/publication/journal-article/2012-01-01_fine_tuning_of_rfxda/</guid>
       <description></description>
     </item>
     
     <item>
       <title>genBlastG: Using BLAST searches to build homologous gene models</title>
-      <link>https://borauyar.github.io/borauyar/publication/journal-article/2011-01-01_genblastg_using_blas/</link>
+      <link>/CV/publication/journal-article/2011-01-01_genblastg_using_blas/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>https://borauyar.github.io/borauyar/publication/journal-article/2011-01-01_genblastg_using_blas/</guid>
+      <guid>/CV/publication/journal-article/2011-01-01_genblastg_using_blas/</guid>
       <description></description>
     </item>
     

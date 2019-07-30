@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>A. Zanzoni | Dr. Bora Uyar</title>
-    <link>https://borauyar.github.io/borauyar/authors/a.-zanzoni/</link>
-      <atom:link href="https://borauyar.github.io/borauyar/authors/a.-zanzoni/index.xml" rel="self" type="application/rss+xml" />
+    <link>/CV/authors/a.-zanzoni/</link>
+      <atom:link href="/CV/authors/a.-zanzoni/index.xml" rel="self" type="application/rss+xml" />
     <description>A. Zanzoni</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://borauyar.github.io/borauyar/img/icon-192.png</url>
+      <url>/CV/img/icon-192.png</url>
       <title>A. Zanzoni</title>
-      <link>https://borauyar.github.io/borauyar/authors/a.-zanzoni/</link>
+      <link>/CV/authors/a.-zanzoni/</link>
     </image>
     
     <item>
       <title>How pathogens use linear motifs to perturb host cell networks</title>
-      <link>https://borauyar.github.io/borauyar/publication/journal-article/2015-01-01_how_pathogens_use_li/</link>
+      <link>/CV/publication/journal-article/2015-01-01_how_pathogens_use_li/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://borauyar.github.io/borauyar/publication/journal-article/2015-01-01_how_pathogens_use_li/</guid>
+      <guid>/CV/publication/journal-article/2015-01-01_how_pathogens_use_li/</guid>
       <description></description>
     </item>
     
