@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dr. Bora Uyar</title>
-    <link>/CV/</link>
-      <atom:link href="/CV/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://borauyar.com/CV/</link>
+      <atom:link href="https://borauyar.com/CV/index.xml" rel="self" type="application/rss+xml" />
     <description>Dr. Bora Uyar</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>/CV/img/icon-192.png</url>
+      <url>https://borauyar.com/CV/img/icon-192.png</url>
       <title>Dr. Bora Uyar</title>
-      <link>/CV/</link>
+      <link>https://borauyar.com/CV/</link>
     </image>
     
     <item>
       <title>Example Page 1</title>
-      <link>/CV/courses/example/example1/</link>
+      <link>https://borauyar.com/CV/courses/example/example1/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>/CV/courses/example/example1/</guid>
+      <guid>https://borauyar.com/CV/courses/example/example1/</guid>
       <description>
 
 &lt;p&gt;In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:&lt;/p&gt;
@@ -49,9 +49,9 @@
     
     <item>
       <title>Example Page 2</title>
-      <link>/CV/courses/example/example2/</link>
+      <link>https://borauyar.com/CV/courses/example/example2/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>/CV/courses/example/example2/</guid>
+      <guid>https://borauyar.com/CV/courses/example/example2/</guid>
       <description>
 
 &lt;p&gt;Here are some more tips for getting started with Academic:&lt;/p&gt;
@@ -84,9 +84,9 @@
     
     <item>
       <title>Example Talk</title>
-      <link>/CV/talk/example/</link>
+      <link>https://borauyar.com/CV/talk/example/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>/CV/talk/example/</guid>
+      <guid>https://borauyar.com/CV/talk/example/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
@@ -106,10 +106,18 @@
     </item>
     
     <item>
+      <title>The conserved histone chaperone LIN-53 is required for normal lifespan and maintenance of muscle integrity in Caenorhabditis elegans</title>
+      <link>https://borauyar.com/CV/publication/journal-article/2019-08-09_conserved_histone_chaperone/</link>
+      <pubDate>Fri, 09 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://borauyar.com/CV/publication/journal-article/2019-08-09_conserved_histone_chaperone/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Writing technical content in Academic</title>
-      <link>/CV/post/writing-technical-content/</link>
+      <link>https://borauyar.com/CV/post/writing-technical-content/</link>
       <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>/CV/post/writing-technical-content/</guid>
+      <guid>https://borauyar.com/CV/post/writing-technical-content/</guid>
       <description>&lt;p&gt;Academic is designed to give technical content creators a seamless experience. You can focus on the content and Academic handles the rest.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Highlight your code snippets, take notes on math classes, and draw diagrams from textual representation.&lt;/strong&gt;&lt;/p&gt;
@@ -318,9 +326,9 @@ gantt
     
     <item>
       <title>Display Jupyter Notebooks with Academic</title>
-      <link>/CV/post/jupyter/</link>
+      <link>https://borauyar.com/CV/post/jupyter/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>/CV/post/jupyter/</guid>
+      <guid>https://borauyar.com/CV/post/jupyter/</guid>
       <description>
 
 &lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;from IPython.core.display import Image
@@ -380,9 +388,9 @@ rm Untitled.md
     
     <item>
       <title>Slides</title>
-      <link>/CV/slides/example/</link>
+      <link>https://borauyar.com/CV/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>/CV/slides/example/</guid>
+      <guid>https://borauyar.com/CV/slides/example/</guid>
       <description>
 
 &lt;h1 id=&#34;welcome-to-slides&#34;&gt;Welcome to Slides&lt;/h1&gt;
@@ -561,91 +569,73 @@ $$&lt;/p&gt;
     
     <item>
       <title>HOT or not: examining the basis of high-occupancy target regions</title>
-      <link>/CV/publication/journal-article/2019-01-01_hot_or_not_examining/</link>
+      <link>https://borauyar.com/CV/publication/journal-article/2019-01-01_hot_or_not_examining/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/CV/publication/journal-article/2019-01-01_hot_or_not_examining/</guid>
+      <guid>https://borauyar.com/CV/publication/journal-article/2019-01-01_hot_or_not_examining/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Privacy Policy</title>
-      <link>/CV/privacy/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      <guid>/CV/privacy/</guid>
-      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Terms</title>
-      <link>/CV/terms/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      <guid>/CV/terms/</guid>
-      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>FACT Sets a Barrier for Cell Fate Reprogramming in Caenorhabditis elegans and Human Cells.</title>
-      <link>/CV/publication/journal-article/2018-01-01_fact_sets_a_barrier_/</link>
+      <link>https://borauyar.com/CV/publication/journal-article/2018-01-01_fact_sets_a_barrier_/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/CV/publication/journal-article/2018-01-01_fact_sets_a_barrier_/</guid>
+      <guid>https://borauyar.com/CV/publication/journal-article/2018-01-01_fact_sets_a_barrier_/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mutations in Disordered Regions Can Cause Disease by Creating Dileucine Motifs.</title>
-      <link>/CV/publication/journal-article/2018-01-01_mutations_in_disorde/</link>
+      <link>https://borauyar.com/CV/publication/journal-article/2018-01-01_mutations_in_disorde/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/CV/publication/journal-article/2018-01-01_mutations_in_disorde/</guid>
+      <guid>https://borauyar.com/CV/publication/journal-article/2018-01-01_mutations_in_disorde/</guid>
       <description></description>
     </item>
     
     <item>
       <title>PiGx: Reproducible genomics analysis pipelines with {GNU} Guix</title>
-      <link>/CV/publication/journal-article/2018-01-01_pigx_reproducible_/</link>
+      <link>https://borauyar.com/CV/publication/journal-article/2018-01-01_pigx_reproducible_/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/CV/publication/journal-article/2018-01-01_pigx_reproducible_/</guid>
+      <guid>https://borauyar.com/CV/publication/journal-article/2018-01-01_pigx_reproducible_/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The IkappaB kinase complex is a regulator of {mRNA} stability</title>
-      <link>/CV/publication/journal-article/2018-01-01_the_i%5Cupkappab_kin/</link>
+      <link>https://borauyar.com/CV/publication/journal-article/2018-01-01_the_i%5Cupkappab_kin/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/CV/publication/journal-article/2018-01-01_the_i%5Cupkappab_kin/</guid>
+      <guid>https://borauyar.com/CV/publication/journal-article/2018-01-01_the_i%5Cupkappab_kin/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Degrons in cancer</title>
-      <link>/CV/publication/journal-article/2017-01-01_degrons_in_cancer/</link>
+      <link>https://borauyar.com/CV/publication/journal-article/2017-01-01_degrons_in_cancer/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/CV/publication/journal-article/2017-01-01_degrons_in_cancer/</guid>
+      <guid>https://borauyar.com/CV/publication/journal-article/2017-01-01_degrons_in_cancer/</guid>
       <description></description>
     </item>
     
     <item>
       <title>RCAS: an RNA centric annotation system for transcriptome-wide regions of interest.</title>
-      <link>/CV/publication/journal-article/2017-01-01_rcas_an_rna_centric_/</link>
+      <link>https://borauyar.com/CV/publication/journal-article/2017-01-01_rcas_an_rna_centric_/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/CV/publication/journal-article/2017-01-01_rcas_an_rna_centric_/</guid>
+      <guid>https://borauyar.com/CV/publication/journal-article/2017-01-01_rcas_an_rna_centric_/</guid>
       <description></description>
     </item>
     
     <item>
       <title>External Project</title>
-      <link>/CV/project/external-project/</link>
+      <link>https://borauyar.com/CV/project/external-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/CV/project/external-project/</guid>
+      <guid>https://borauyar.com/CV/project/external-project/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Internal Project</title>
-      <link>/CV/project/internal-project/</link>
+      <link>https://borauyar.com/CV/project/internal-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/CV/project/internal-project/</guid>
+      <guid>https://borauyar.com/CV/project/internal-project/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
 
 &lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
@@ -660,9 +650,9 @@ $$&lt;/p&gt;
     
     <item>
       <title>Academic: the website builder for Hugo</title>
-      <link>/CV/post/getting-started/</link>
+      <link>https://borauyar.com/CV/post/getting-started/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/CV/post/getting-started/</guid>
+      <guid>https://borauyar.com/CV/post/getting-started/</guid>
       <description>
 
 &lt;p&gt;&lt;strong&gt;Create a free website with Academic using Markdown, Jupyter, or RStudio. Choose a beautiful color theme and build anything with the Page Builder - over 40 &lt;em&gt;widgets&lt;/em&gt;, &lt;em&gt;themes&lt;/em&gt;, and &lt;em&gt;language packs&lt;/em&gt; included!&lt;/strong&gt;&lt;/p&gt;
@@ -755,8 +745,8 @@ $$&lt;/p&gt;
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/CV/CV/post/getting-started/gallery/theme-1950s.png&#34; data-caption=&#34;1950s&#34;&gt;
-  &lt;img src=&#34;/CV/CV/post/getting-started/gallery/theme-1950s_huaf5482f8cea0c5a703a328640e3b7509_21614_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://borauyar.com/CV/CV/post/getting-started/gallery/theme-1950s.png&#34; data-caption=&#34;1950s&#34;&gt;
+  &lt;img src=&#34;https://borauyar.com/CV/CV/post/getting-started/gallery/theme-1950s_huaf5482f8cea0c5a703a328640e3b7509_21614_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
@@ -768,8 +758,8 @@ $$&lt;/p&gt;
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/CV/CV/post/getting-started/gallery/theme-apogee.png&#34; data-caption=&#34;Apogee&#34;&gt;
-  &lt;img src=&#34;/CV/CV/post/getting-started/gallery/theme-apogee_hu4b45d99db97150df01464c393bfd17d4_24119_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://borauyar.com/CV/CV/post/getting-started/gallery/theme-apogee.png&#34; data-caption=&#34;Apogee&#34;&gt;
+  &lt;img src=&#34;https://borauyar.com/CV/CV/post/getting-started/gallery/theme-apogee_hu4b45d99db97150df01464c393bfd17d4_24119_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
@@ -781,8 +771,8 @@ $$&lt;/p&gt;
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/CV/CV/post/getting-started/gallery/theme-coffee-playfair.png&#34; data-caption=&#34;Coffee theme with Playfair font&#34;&gt;
-  &lt;img src=&#34;/CV/CV/post/getting-started/gallery/theme-coffee-playfair_hu446a8f670cc5622adcc77b97ba95f6c5_22462_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://borauyar.com/CV/CV/post/getting-started/gallery/theme-coffee-playfair.png&#34; data-caption=&#34;Coffee theme with Playfair font&#34;&gt;
+  &lt;img src=&#34;https://borauyar.com/CV/CV/post/getting-started/gallery/theme-coffee-playfair_hu446a8f670cc5622adcc77b97ba95f6c5_22462_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
@@ -794,8 +784,8 @@ $$&lt;/p&gt;
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/CV/CV/post/getting-started/gallery/theme-dark.png&#34; data-caption=&#34;Dark&#34;&gt;
-  &lt;img src=&#34;/CV/CV/post/getting-started/gallery/theme-dark_hu1e8601ecc47f58eada7743fdcd709d3d_21456_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://borauyar.com/CV/CV/post/getting-started/gallery/theme-dark.png&#34; data-caption=&#34;Dark&#34;&gt;
+  &lt;img src=&#34;https://borauyar.com/CV/CV/post/getting-started/gallery/theme-dark_hu1e8601ecc47f58eada7743fdcd709d3d_21456_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
@@ -807,8 +797,8 @@ $$&lt;/p&gt;
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/CV/CV/post/getting-started/gallery/theme-default.png&#34; data-caption=&#34;Default&#34;&gt;
-  &lt;img src=&#34;/CV/CV/post/getting-started/gallery/theme-default_huba6228b7bdf30e2f03f12ea91b2cba0d_21751_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://borauyar.com/CV/CV/post/getting-started/gallery/theme-default.png&#34; data-caption=&#34;Default&#34;&gt;
+  &lt;img src=&#34;https://borauyar.com/CV/CV/post/getting-started/gallery/theme-default_huba6228b7bdf30e2f03f12ea91b2cba0d_21751_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
@@ -820,8 +810,8 @@ $$&lt;/p&gt;
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/CV/CV/post/getting-started/gallery/theme-forest.png&#34; data-caption=&#34;Forest&#34;&gt;
-  &lt;img src=&#34;/CV/CV/post/getting-started/gallery/theme-forest_hu4f093a1c683134431456584193ea41ee_21797_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://borauyar.com/CV/CV/post/getting-started/gallery/theme-forest.png&#34; data-caption=&#34;Forest&#34;&gt;
+  &lt;img src=&#34;https://borauyar.com/CV/CV/post/getting-started/gallery/theme-forest_hu4f093a1c683134431456584193ea41ee_21797_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
@@ -833,8 +823,8 @@ $$&lt;/p&gt;
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/CV/CV/post/getting-started/gallery/theme-ocean.png&#34; data-caption=&#34;Ocean&#34;&gt;
-  &lt;img src=&#34;/CV/CV/post/getting-started/gallery/theme-ocean_hu14831ccafc2219f30a7a096fa7617e01_21760_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://borauyar.com/CV/CV/post/getting-started/gallery/theme-ocean.png&#34; data-caption=&#34;Ocean&#34;&gt;
+  &lt;img src=&#34;https://borauyar.com/CV/CV/post/getting-started/gallery/theme-ocean_hu14831ccafc2219f30a7a096fa7617e01_21760_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
@@ -846,8 +836,8 @@ $$&lt;/p&gt;
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/CV/CV/post/getting-started/gallery/theme-strawberry.png&#34; data-caption=&#34;Strawberry&#34;&gt;
-  &lt;img src=&#34;/CV/CV/post/getting-started/gallery/theme-strawberry_hu36b0b347fcca08bd39e2df22dcedbdfb_39532_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://borauyar.com/CV/CV/post/getting-started/gallery/theme-strawberry.png&#34; data-caption=&#34;Strawberry&#34;&gt;
+  &lt;img src=&#34;https://borauyar.com/CV/CV/post/getting-started/gallery/theme-strawberry_hu36b0b347fcca08bd39e2df22dcedbdfb_39532_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
 
@@ -890,17 +880,17 @@ $$&lt;/p&gt;
     
     <item>
       <title>ELM 2016 - Data update and new functionality of the eukaryotic linear motif resource</title>
-      <link>/CV/publication/journal-article/2016-01-01_elm_2016_-_data_upda/</link>
+      <link>https://borauyar.com/CV/publication/journal-article/2016-01-01_elm_2016_-_data_upda/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>/CV/publication/journal-article/2016-01-01_elm_2016_-_data_upda/</guid>
+      <guid>https://borauyar.com/CV/publication/journal-article/2016-01-01_elm_2016_-_data_upda/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hello R Markdown</title>
-      <link>/CV/post/2015-07-23-r-rmarkdown/</link>
+      <link>https://borauyar.com/CV/post/2015-07-23-r-rmarkdown/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      <guid>/CV/post/2015-07-23-r-rmarkdown/</guid>
+      <guid>https://borauyar.com/CV/post/2015-07-23-r-rmarkdown/</guid>
       <description>
 
 
@@ -937,7 +927,7 @@ pie(
   init.angle = -50, border = NA
 )&lt;/code&gt;&lt;/pre&gt;
 &lt;div class=&#34;figure&#34;&gt;&lt;span id=&#34;fig:pie&#34;&gt;&lt;/span&gt;
-&lt;img src=&#34;/CV/borauyarpost/2015-07-23-r-rmarkdown_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
+&lt;img src=&#34;https://borauyar.com/CV/CVpost/2015-07-23-r-rmarkdown_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
 &lt;p class=&#34;caption&#34;&gt;
 Figure 1: A fancy pie chart.
 &lt;/p&gt;
@@ -948,73 +938,73 @@ Figure 1: A fancy pie chart.
     
     <item>
       <title>How pathogens use linear motifs to perturb host cell networks</title>
-      <link>/CV/publication/journal-article/2015-01-01_how_pathogens_use_li/</link>
+      <link>https://borauyar.com/CV/publication/journal-article/2015-01-01_how_pathogens_use_li/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>/CV/publication/journal-article/2015-01-01_how_pathogens_use_li/</guid>
+      <guid>https://borauyar.com/CV/publication/journal-article/2015-01-01_how_pathogens_use_li/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Proteome-wide analysis of human disease mutations in short linear motifs: Neglected players in cancer?</title>
-      <link>/CV/publication/journal-article/2014-01-01_proteome-wide_analys/</link>
+      <link>https://borauyar.com/CV/publication/journal-article/2014-01-01_proteome-wide_analys/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>/CV/publication/journal-article/2014-01-01_proteome-wide_analys/</guid>
+      <guid>https://borauyar.com/CV/publication/journal-article/2014-01-01_proteome-wide_analys/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Short linear motifs: Ubiquitous and functionally diverse protein interaction modules directing cell regulation</title>
-      <link>/CV/publication/journal-article/2014-01-01_short_linear_motifs_/</link>
+      <link>https://borauyar.com/CV/publication/journal-article/2014-01-01_short_linear_motifs_/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>/CV/publication/journal-article/2014-01-01_short_linear_motifs_/</guid>
+      <guid>https://borauyar.com/CV/publication/journal-article/2014-01-01_short_linear_motifs_/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The eukaryotic linear motif resource ELM: 10 years and counting</title>
-      <link>/CV/publication/journal-article/2014-01-01_the_eukaryotic_linea/</link>
+      <link>https://borauyar.com/CV/publication/journal-article/2014-01-01_the_eukaryotic_linea/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>/CV/publication/journal-article/2014-01-01_the_eukaryotic_linea/</guid>
+      <guid>https://borauyar.com/CV/publication/journal-article/2014-01-01_the_eukaryotic_linea/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Attributes of short linear motifs</title>
-      <link>/CV/publication/journal-article/2012-01-01_attributes_of_short_/</link>
+      <link>https://borauyar.com/CV/publication/journal-article/2012-01-01_attributes_of_short_/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>/CV/publication/journal-article/2012-01-01_attributes_of_short_/</guid>
+      <guid>https://borauyar.com/CV/publication/journal-article/2012-01-01_attributes_of_short_/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ELM - The database of eukaryotic linear motifs</title>
-      <link>/CV/publication/journal-article/2012-01-01_elm_-_the_database_o/</link>
+      <link>https://borauyar.com/CV/publication/journal-article/2012-01-01_elm_-_the_database_o/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>/CV/publication/journal-article/2012-01-01_elm_-_the_database_o/</guid>
+      <guid>https://borauyar.com/CV/publication/journal-article/2012-01-01_elm_-_the_database_o/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fine tuning of RFX/DAF-19-regulated target gene expression through binding to multiple sites in Caenorhabditis elegans</title>
-      <link>/CV/publication/journal-article/2012-01-01_fine_tuning_of_rfxda/</link>
+      <link>https://borauyar.com/CV/publication/journal-article/2012-01-01_fine_tuning_of_rfxda/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>/CV/publication/journal-article/2012-01-01_fine_tuning_of_rfxda/</guid>
+      <guid>https://borauyar.com/CV/publication/journal-article/2012-01-01_fine_tuning_of_rfxda/</guid>
       <description></description>
     </item>
     
     <item>
       <title>RNA-seq analysis of the C. briggsae transcriptome</title>
-      <link>/CV/publication/journal-article/2012-01-01_rna-seq_analysis_of_/</link>
+      <link>https://borauyar.com/CV/publication/journal-article/2012-01-01_rna-seq_analysis_of_/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>/CV/publication/journal-article/2012-01-01_rna-seq_analysis_of_/</guid>
+      <guid>https://borauyar.com/CV/publication/journal-article/2012-01-01_rna-seq_analysis_of_/</guid>
       <description></description>
     </item>
     
     <item>
       <title>genBlastG: Using BLAST searches to build homologous gene models</title>
-      <link>/CV/publication/journal-article/2011-01-01_genblastg_using_blas/</link>
+      <link>https://borauyar.com/CV/publication/journal-article/2011-01-01_genblastg_using_blas/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>/CV/publication/journal-article/2011-01-01_genblastg_using_blas/</guid>
+      <guid>https://borauyar.com/CV/publication/journal-article/2011-01-01_genblastg_using_blas/</guid>
       <description></description>
     </item>
     

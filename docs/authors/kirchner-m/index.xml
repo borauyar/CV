@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kirchner M | Dr. Bora Uyar</title>
-    <link>/CV/authors/kirchner-m/</link>
-      <atom:link href="/CV/authors/kirchner-m/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://borauyar.com/CV/authors/kirchner-m/</link>
+      <atom:link href="https://borauyar.com/CV/authors/kirchner-m/index.xml" rel="self" type="application/rss+xml" />
     <description>Kirchner M</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/CV/img/icon-192.png</url>
+      <url>https://borauyar.com/CV/img/icon-192.png</url>
       <title>Kirchner M</title>
-      <link>/CV/authors/kirchner-m/</link>
+      <link>https://borauyar.com/CV/authors/kirchner-m/</link>
     </image>
     
     <item>
       <title>Mutations in Disordered Regions Can Cause Disease by Creating Dileucine Motifs.</title>
-      <link>/CV/publication/journal-article/2018-01-01_mutations_in_disorde/</link>
+      <link>https://borauyar.com/CV/publication/journal-article/2018-01-01_mutations_in_disorde/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/CV/publication/journal-article/2018-01-01_mutations_in_disorde/</guid>
+      <guid>https://borauyar.com/CV/publication/journal-article/2018-01-01_mutations_in_disorde/</guid>
       <description></description>
     </item>
     

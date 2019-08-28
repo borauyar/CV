@@ -2,61 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags | Dr. Bora Uyar</title>
-    <link>/CV/tags/</link>
-      <atom:link href="/CV/tags/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://borauyar.com/CV/tags/</link>
+      <atom:link href="https://borauyar.com/CV/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/CV/img/icon-192.png</url>
+      <url>https://borauyar.com/CV/img/icon-192.png</url>
       <title>Tags</title>
-      <link>/CV/tags/</link>
+      <link>https://borauyar.com/CV/tags/</link>
     </image>
     
     <item>
       <title>Deep Learning</title>
-      <link>/CV/tags/deep-learning/</link>
+      <link>https://borauyar.com/CV/tags/deep-learning/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/CV/tags/deep-learning/</guid>
+      <guid>https://borauyar.com/CV/tags/deep-learning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Demo</title>
-      <link>/CV/tags/demo/</link>
+      <link>https://borauyar.com/CV/tags/demo/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/CV/tags/demo/</guid>
+      <guid>https://borauyar.com/CV/tags/demo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Academic</title>
-      <link>/CV/tags/academic/</link>
+      <link>https://borauyar.com/CV/tags/academic/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/CV/tags/academic/</guid>
+      <guid>https://borauyar.com/CV/tags/academic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R Markdown</title>
-      <link>/CV/tags/r-markdown/</link>
+      <link>https://borauyar.com/CV/tags/r-markdown/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      <guid>/CV/tags/r-markdown/</guid>
+      <guid>https://borauyar.com/CV/tags/r-markdown/</guid>
       <description></description>
     </item>
     
     <item>
       <title>plot</title>
-      <link>/CV/tags/plot/</link>
+      <link>https://borauyar.com/CV/tags/plot/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      <guid>/CV/tags/plot/</guid>
+      <guid>https://borauyar.com/CV/tags/plot/</guid>
       <description></description>
     </item>
     
     <item>
       <title>regression</title>
-      <link>/CV/tags/regression/</link>
+      <link>https://borauyar.com/CV/tags/regression/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      <guid>/CV/tags/regression/</guid>
+      <guid>https://borauyar.com/CV/tags/regression/</guid>
       <description></description>
     </item>
     

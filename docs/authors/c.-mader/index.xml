@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>C. Mader | Dr. Bora Uyar</title>
-    <link>/CV/authors/c.-mader/</link>
-      <atom:link href="/CV/authors/c.-mader/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://borauyar.com/CV/authors/c.-mader/</link>
+      <atom:link href="https://borauyar.com/CV/authors/c.-mader/index.xml" rel="self" type="application/rss+xml" />
     <description>C. Mader</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/CV/img/icon-192.png</url>
+      <url>https://borauyar.com/CV/img/icon-192.png</url>
       <title>C. Mader</title>
-      <link>/CV/authors/c.-mader/</link>
+      <link>https://borauyar.com/CV/authors/c.-mader/</link>
     </image>
     
     <item>
       <title>ELM 2016 - Data update and new functionality of the eukaryotic linear motif resource</title>
-      <link>/CV/publication/journal-article/2016-01-01_elm_2016_-_data_upda/</link>
+      <link>https://borauyar.com/CV/publication/journal-article/2016-01-01_elm_2016_-_data_upda/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>/CV/publication/journal-article/2016-01-01_elm_2016_-_data_upda/</guid>
+      <guid>https://borauyar.com/CV/publication/journal-article/2016-01-01_elm_2016_-_data_upda/</guid>
       <description></description>
     </item>
     

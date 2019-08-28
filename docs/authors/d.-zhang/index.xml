@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>D. Zhang | Dr. Bora Uyar</title>
-    <link>/CV/authors/d.-zhang/</link>
-      <atom:link href="/CV/authors/d.-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://borauyar.com/CV/authors/d.-zhang/</link>
+      <atom:link href="https://borauyar.com/CV/authors/d.-zhang/index.xml" rel="self" type="application/rss+xml" />
     <description>D. Zhang</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/CV/img/icon-192.png</url>
+      <url>https://borauyar.com/CV/img/icon-192.png</url>
       <title>D. Zhang</title>
-      <link>/CV/authors/d.-zhang/</link>
+      <link>https://borauyar.com/CV/authors/d.-zhang/</link>
     </image>
     
     <item>
       <title>Fine tuning of RFX/DAF-19-regulated target gene expression through binding to multiple sites in Caenorhabditis elegans</title>
-      <link>/CV/publication/journal-article/2012-01-01_fine_tuning_of_rfxda/</link>
+      <link>https://borauyar.com/CV/publication/journal-article/2012-01-01_fine_tuning_of_rfxda/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>/CV/publication/journal-article/2012-01-01_fine_tuning_of_rfxda/</guid>
+      <guid>https://borauyar.com/CV/publication/journal-article/2012-01-01_fine_tuning_of_rfxda/</guid>
       <description></description>
     </item>
     

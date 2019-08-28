@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>M. Hammer | Dr. Bora Uyar</title>
-    <link>/CV/authors/m.-hammer/</link>
-      <atom:link href="/CV/authors/m.-hammer/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://borauyar.com/CV/authors/m.-hammer/</link>
+      <atom:link href="https://borauyar.com/CV/authors/m.-hammer/index.xml" rel="self" type="application/rss+xml" />
     <description>M. Hammer</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/CV/img/icon-192.png</url>
+      <url>https://borauyar.com/CV/img/icon-192.png</url>
       <title>M. Hammer</title>
-      <link>/CV/authors/m.-hammer/</link>
+      <link>https://borauyar.com/CV/authors/m.-hammer/</link>
     </image>
     
     <item>
       <title>ELM - The database of eukaryotic linear motifs</title>
-      <link>/CV/publication/journal-article/2012-01-01_elm_-_the_database_o/</link>
+      <link>https://borauyar.com/CV/publication/journal-article/2012-01-01_elm_-_the_database_o/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>/CV/publication/journal-article/2012-01-01_elm_-_the_database_o/</guid>
+      <guid>https://borauyar.com/CV/publication/journal-article/2012-01-01_elm_-_the_database_o/</guid>
       <description></description>
     </item>
     

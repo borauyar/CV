@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Courses | Dr. Bora Uyar</title>
-    <link>/CV/courses/</link>
-      <atom:link href="/CV/courses/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://borauyar.com/CV/courses/</link>
+      <atom:link href="https://borauyar.com/CV/courses/index.xml" rel="self" type="application/rss+xml" />
     <description>Courses</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
-      <url>/CV/img/icon-192.png</url>
+      <url>https://borauyar.com/CV/img/icon-192.png</url>
       <title>Courses</title>
-      <link>/CV/courses/</link>
+      <link>https://borauyar.com/CV/courses/</link>
     </image>
     
   </channel>
