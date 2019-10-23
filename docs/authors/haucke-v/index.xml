@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Haucke V | Dr. Bora Uyar</title>
-    <link>https://borauyar.com/CV/authors/haucke-v/</link>
-      <atom:link href="https://borauyar.com/CV/authors/haucke-v/index.xml" rel="self" type="application/rss+xml" />
+    <link>/CV/authors/haucke-v/</link>
+      <atom:link href="/CV/authors/haucke-v/index.xml" rel="self" type="application/rss+xml" />
     <description>Haucke V</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://borauyar.com/CV/img/icon-192.png</url>
+      <url>/CV/img/icon-192.png</url>
       <title>Haucke V</title>
-      <link>https://borauyar.com/CV/authors/haucke-v/</link>
+      <link>/CV/authors/haucke-v/</link>
     </image>
     
     <item>
       <title>Mutations in Disordered Regions Can Cause Disease by Creating Dileucine Motifs.</title>
-      <link>https://borauyar.com/CV/publication/journal-article/2018-01-01_mutations_in_disorde/</link>
+      <link>/CV/publication/journal-article/2018-01-01_mutations_in_disorde/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://borauyar.com/CV/publication/journal-article/2018-01-01_mutations_in_disorde/</guid>
+      <guid>/CV/publication/journal-article/2018-01-01_mutations_in_disorde/</guid>
       <description></description>
     </item>
     

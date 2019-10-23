@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Vasiljevic D. | Dr. Bora Uyar</title>
-    <link>https://borauyar.com/CV/authors/vasiljevic-d./</link>
-      <atom:link href="https://borauyar.com/CV/authors/vasiljevic-d./index.xml" rel="self" type="application/rss+xml" />
+    <link>/CV/authors/vasiljevic-d./</link>
+      <atom:link href="/CV/authors/vasiljevic-d./index.xml" rel="self" type="application/rss+xml" />
     <description>Vasiljevic D.</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 09 Aug 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://borauyar.com/CV/img/icon-192.png</url>
+      <url>/CV/img/icon-192.png</url>
       <title>Vasiljevic D.</title>
-      <link>https://borauyar.com/CV/authors/vasiljevic-d./</link>
+      <link>/CV/authors/vasiljevic-d./</link>
     </image>
     
     <item>
       <title>The conserved histone chaperone LIN-53 is required for normal lifespan and maintenance of muscle integrity in Caenorhabditis elegans</title>
-      <link>https://borauyar.com/CV/publication/journal-article/2019-08-09_conserved_histone_chaperone/</link>
+      <link>/CV/publication/journal-article/2019-08-09_conserved_histone_chaperone/</link>
       <pubDate>Fri, 09 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://borauyar.com/CV/publication/journal-article/2019-08-09_conserved_histone_chaperone/</guid>
+      <guid>/CV/publication/journal-article/2019-08-09_conserved_histone_chaperone/</guid>
       <description></description>
     </item>
     

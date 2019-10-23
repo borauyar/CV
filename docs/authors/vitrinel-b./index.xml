@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Vitrinel B. | Dr. Bora Uyar</title>
-    <link>https://borauyar.com/CV/authors/vitrinel-b./</link>
-      <atom:link href="https://borauyar.com/CV/authors/vitrinel-b./index.xml" rel="self" type="application/rss+xml" />
+    <link>/CV/authors/vitrinel-b./</link>
+      <atom:link href="/CV/authors/vitrinel-b./index.xml" rel="self" type="application/rss+xml" />
     <description>Vitrinel B.</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 09 Aug 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://borauyar.com/CV/img/icon-192.png</url>
+      <url>/CV/img/icon-192.png</url>
       <title>Vitrinel B.</title>
-      <link>https://borauyar.com/CV/authors/vitrinel-b./</link>
+      <link>/CV/authors/vitrinel-b./</link>
     </image>
     
     <item>
       <title>The conserved histone chaperone LIN-53 is required for normal lifespan and maintenance of muscle integrity in Caenorhabditis elegans</title>
-      <link>https://borauyar.com/CV/publication/journal-article/2019-08-09_conserved_histone_chaperone/</link>
+      <link>/CV/publication/journal-article/2019-08-09_conserved_histone_chaperone/</link>
       <pubDate>Fri, 09 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://borauyar.com/CV/publication/journal-article/2019-08-09_conserved_histone_chaperone/</guid>
+      <guid>/CV/publication/journal-article/2019-08-09_conserved_histone_chaperone/</guid>
       <description></description>
     </item>
     

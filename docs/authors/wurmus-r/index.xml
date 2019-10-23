@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Wurmus R | Dr. Bora Uyar</title>
-    <link>https://borauyar.com/CV/authors/wurmus-r/</link>
-      <atom:link href="https://borauyar.com/CV/authors/wurmus-r/index.xml" rel="self" type="application/rss+xml" />
+    <link>/CV/authors/wurmus-r/</link>
+      <atom:link href="/CV/authors/wurmus-r/index.xml" rel="self" type="application/rss+xml" />
     <description>Wurmus R</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://borauyar.com/CV/img/icon-192.png</url>
+      <url>/CV/img/icon-192.png</url>
       <title>Wurmus R</title>
-      <link>https://borauyar.com/CV/authors/wurmus-r/</link>
+      <link>/CV/authors/wurmus-r/</link>
     </image>
     
     <item>
       <title>RCAS: an RNA centric annotation system for transcriptome-wide regions of interest.</title>
-      <link>https://borauyar.com/CV/publication/journal-article/2017-01-01_rcas_an_rna_centric_/</link>
+      <link>/CV/publication/journal-article/2017-01-01_rcas_an_rna_centric_/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://borauyar.com/CV/publication/journal-article/2017-01-01_rcas_an_rna_centric_/</guid>
+      <guid>/CV/publication/journal-article/2017-01-01_rcas_an_rna_centric_/</guid>
       <description></description>
     </item>
     

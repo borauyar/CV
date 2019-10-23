@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dr. Bora Uyar</title>
-    <link>https://borauyar.com/CV/authors/admin/</link>
-      <atom:link href="https://borauyar.com/CV/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    <link>/CV/authors/admin/</link>
+      <atom:link href="/CV/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     <description>Dr. Bora Uyar</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 05 Feb 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://borauyar.com/CV/img/icon-192.png</url>
+      <url>/CV/img/icon-192.png</url>
       <title>Dr. Bora Uyar</title>
-      <link>https://borauyar.com/CV/authors/admin/</link>
+      <link>/CV/authors/admin/</link>
     </image>
     
     <item>
       <title>Display Jupyter Notebooks with Academic</title>
-      <link>https://borauyar.com/CV/post/jupyter/</link>
+      <link>/CV/post/jupyter/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://borauyar.com/CV/post/jupyter/</guid>
+      <guid>/CV/post/jupyter/</guid>
       <description>
 
 &lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;from IPython.core.display import Image
@@ -76,9 +76,9 @@ rm Untitled.md
     
     <item>
       <title>Academic: the website builder for Hugo</title>
-      <link>https://borauyar.com/CV/post/getting-started/</link>
+      <link>/CV/post/getting-started/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://borauyar.com/CV/post/getting-started/</guid>
+      <guid>/CV/post/getting-started/</guid>
       <description>
 
 &lt;p&gt;&lt;strong&gt;Create a free website with Academic using Markdown, Jupyter, or RStudio. Choose a beautiful color theme and build anything with the Page Builder - over 40 &lt;em&gt;widgets&lt;/em&gt;, &lt;em&gt;themes&lt;/em&gt;, and &lt;em&gt;language packs&lt;/em&gt; included!&lt;/strong&gt;&lt;/p&gt;
@@ -171,8 +171,8 @@ rm Untitled.md
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://borauyar.com/CV/CV/post/getting-started/gallery/theme-1950s.png&#34; data-caption=&#34;1950s&#34;&gt;
-  &lt;img src=&#34;https://borauyar.com/CV/CV/post/getting-started/gallery/theme-1950s_huaf5482f8cea0c5a703a328640e3b7509_21614_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/CV/CV/post/getting-started/gallery/theme-1950s.png&#34; data-caption=&#34;1950s&#34;&gt;
+  &lt;img src=&#34;/CV/CV/post/getting-started/gallery/theme-1950s_huaf5482f8cea0c5a703a328640e3b7509_21614_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
@@ -184,8 +184,8 @@ rm Untitled.md
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://borauyar.com/CV/CV/post/getting-started/gallery/theme-apogee.png&#34; data-caption=&#34;Apogee&#34;&gt;
-  &lt;img src=&#34;https://borauyar.com/CV/CV/post/getting-started/gallery/theme-apogee_hu4b45d99db97150df01464c393bfd17d4_24119_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/CV/CV/post/getting-started/gallery/theme-apogee.png&#34; data-caption=&#34;Apogee&#34;&gt;
+  &lt;img src=&#34;/CV/CV/post/getting-started/gallery/theme-apogee_hu4b45d99db97150df01464c393bfd17d4_24119_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
@@ -197,8 +197,8 @@ rm Untitled.md
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://borauyar.com/CV/CV/post/getting-started/gallery/theme-coffee-playfair.png&#34; data-caption=&#34;Coffee theme with Playfair font&#34;&gt;
-  &lt;img src=&#34;https://borauyar.com/CV/CV/post/getting-started/gallery/theme-coffee-playfair_hu446a8f670cc5622adcc77b97ba95f6c5_22462_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/CV/CV/post/getting-started/gallery/theme-coffee-playfair.png&#34; data-caption=&#34;Coffee theme with Playfair font&#34;&gt;
+  &lt;img src=&#34;/CV/CV/post/getting-started/gallery/theme-coffee-playfair_hu446a8f670cc5622adcc77b97ba95f6c5_22462_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
@@ -210,8 +210,8 @@ rm Untitled.md
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://borauyar.com/CV/CV/post/getting-started/gallery/theme-dark.png&#34; data-caption=&#34;Dark&#34;&gt;
-  &lt;img src=&#34;https://borauyar.com/CV/CV/post/getting-started/gallery/theme-dark_hu1e8601ecc47f58eada7743fdcd709d3d_21456_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/CV/CV/post/getting-started/gallery/theme-dark.png&#34; data-caption=&#34;Dark&#34;&gt;
+  &lt;img src=&#34;/CV/CV/post/getting-started/gallery/theme-dark_hu1e8601ecc47f58eada7743fdcd709d3d_21456_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
@@ -223,8 +223,8 @@ rm Untitled.md
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://borauyar.com/CV/CV/post/getting-started/gallery/theme-default.png&#34; data-caption=&#34;Default&#34;&gt;
-  &lt;img src=&#34;https://borauyar.com/CV/CV/post/getting-started/gallery/theme-default_huba6228b7bdf30e2f03f12ea91b2cba0d_21751_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/CV/CV/post/getting-started/gallery/theme-default.png&#34; data-caption=&#34;Default&#34;&gt;
+  &lt;img src=&#34;/CV/CV/post/getting-started/gallery/theme-default_huba6228b7bdf30e2f03f12ea91b2cba0d_21751_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
@@ -236,8 +236,8 @@ rm Untitled.md
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://borauyar.com/CV/CV/post/getting-started/gallery/theme-forest.png&#34; data-caption=&#34;Forest&#34;&gt;
-  &lt;img src=&#34;https://borauyar.com/CV/CV/post/getting-started/gallery/theme-forest_hu4f093a1c683134431456584193ea41ee_21797_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/CV/CV/post/getting-started/gallery/theme-forest.png&#34; data-caption=&#34;Forest&#34;&gt;
+  &lt;img src=&#34;/CV/CV/post/getting-started/gallery/theme-forest_hu4f093a1c683134431456584193ea41ee_21797_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
@@ -249,8 +249,8 @@ rm Untitled.md
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://borauyar.com/CV/CV/post/getting-started/gallery/theme-ocean.png&#34; data-caption=&#34;Ocean&#34;&gt;
-  &lt;img src=&#34;https://borauyar.com/CV/CV/post/getting-started/gallery/theme-ocean_hu14831ccafc2219f30a7a096fa7617e01_21760_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/CV/CV/post/getting-started/gallery/theme-ocean.png&#34; data-caption=&#34;Ocean&#34;&gt;
+  &lt;img src=&#34;/CV/CV/post/getting-started/gallery/theme-ocean_hu14831ccafc2219f30a7a096fa7617e01_21760_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
@@ -262,8 +262,8 @@ rm Untitled.md
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://borauyar.com/CV/CV/post/getting-started/gallery/theme-strawberry.png&#34; data-caption=&#34;Strawberry&#34;&gt;
-  &lt;img src=&#34;https://borauyar.com/CV/CV/post/getting-started/gallery/theme-strawberry_hu36b0b347fcca08bd39e2df22dcedbdfb_39532_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/CV/CV/post/getting-started/gallery/theme-strawberry.png&#34; data-caption=&#34;Strawberry&#34;&gt;
+  &lt;img src=&#34;/CV/CV/post/getting-started/gallery/theme-strawberry_hu36b0b347fcca08bd39e2df22dcedbdfb_39532_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
 
@@ -306,9 +306,9 @@ rm Untitled.md
     
     <item>
       <title></title>
-      <link>https://borauyar.com/CV/authors/admin/</link>
+      <link>/CV/authors/admin/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://borauyar.com/CV/authors/admin/</guid>
+      <guid>/CV/authors/admin/</guid>
       <description>&lt;p&gt;Bora Uyar is a bioinformatics scientist at the Bioinformatics and Omics Data Science Platform of the Berlin Institute for Medical Systems Biology of the Max-Delbruck-Center in Berlin/Germany. His main aim is to apply his bioinformatics skills (such as machine learning, statistics, and programming) to further our understanding of human diseases at the molecular level. He is particularly interested in cancer biology, for which he integrates multiple sources of high-throughput sequencing (multi-omics) datasets measured at both bulk and single-cell level resolution. He is currently interested in how to decipher the disruptions in cellular identities using single-cell sequencing datasets and transfer this knowledge to bulk sequencing datasets available in large scale human sequencing projects such as TCGA and the ICGC/PCAWG. He is particularly curious about how E3 ligases involved in proteasome-mediated protein degradation are influential in determination of the cell identities, regulation of the cell cycle, response to the environment and how factors that lead to the mis-regulation of such enzyme complexes can determine the prognosis of cancer patients.&lt;/p&gt;
 </description>
     </item>
