@@ -17,12 +17,25 @@ body {
 }
 
 header {
+    display: flex; 
+    align-items: center; 
+    justify-content: center;
+    flex-wrap: wrap;
     text-align: center;
     padding: 2rem 0;
     background-color: #333;
     color: white;
     width: 100%
     margin: 0 auto;
+}
+
+.contact-info {
+    font-size: 1rem; /* Set the font size for the contact information */
+    margin-left: 20px; /* Add some space between the contact information and other header content */
+}
+
+.contact-info p {
+    margin: 0; /* Remove the default margin from the paragraphs */
 }
 
 header h1 {
@@ -158,6 +171,13 @@ li {
     color: #3f8e53; /* Set the hover color for the resource links */
 }
 
+.circular-image {
+    width: 150px; /* Set the width of the image */
+    height: 150px; /* Set the height of the image */
+    border-radius: 30%; /* Make the image circular */
+    object-fit: cover; /* Preserve the aspect ratio and cover the container */
+    margin-right: 20px; /* Add some space between the image and the title text */
+}
 
 .banner {
     background-color: #333; /* Change the background color of the banner */
