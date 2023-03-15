@@ -137,6 +137,28 @@ li {
     color: #666; /* Set the color for the caption text */
 }
 
+.resource-list {
+    list-style-type: none; /* Remove the default list style */
+    padding: 0; /* Remove the default padding */
+    text-align: center; /* Center the resource links */
+}
+
+.resource-list li {
+    margin: 1rem; /* Add some space between resource links */
+    display: inline-block; /* Display resource links inline with spacing */
+}
+
+.resource-list a {
+    text-decoration: none; /* Remove the default link underline */
+    color: #4caf50; /* Set the link color */
+    font-size: 2rem; /* Set the font size for the resource links */
+}
+
+.resource-list a:hover {
+    color: #3f8e53; /* Set the hover color for the resource links */
+}
+
+
 .banner {
     background-color: #333; /* Change the background color of the banner */
     padding: 1rem;
