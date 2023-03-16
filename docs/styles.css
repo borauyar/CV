@@ -137,8 +137,7 @@ li {
 }
 
 .publication a {
-   edisplay: inline-block;
-    ://scholar.google.com/citations?user=YEZr1LUAAAAJ&hl=en">Google Scholar</a>ackground-color: #f4f4f4;
+    edisplay: inline-block;
     margin-top: 1rem;
     color: #333;
     text-decoration: none;
@@ -148,7 +147,7 @@ li {
 }
 
 .publication a:hover {
-    background-color: #333;
+    background-color: #3f8e53;
     color: white
     font-size: 2rem;
 }
