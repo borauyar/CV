@@ -35,13 +35,13 @@ header {
     justify-content: center;
     flex-wrap: wrap;
     text-align: center;
-    padding: 2rem 0;
+    padding: 0rem 0;
     background-color: #333;
     color: white;
     width: 100%
     margin: 0 auto;
-    margin-top: 40px;
-    border-radius: 40px;
+    margin-top: 5px;
+    border-radius: 30px;
 }
 
 .contact-info {
@@ -59,7 +59,7 @@ header h1 {
 
 main {
     padding: 2rem 0;
-    margin-top: 10px;
+    margin-top: 5px;
 }
 
 section {
@@ -68,7 +68,7 @@ section {
 
 h2 {
     font-size: 1.5rem;
-    margin-bottom: 1rem;
+    margin-bottom: 0.5rem;
     border-bottom: 2px solid #333;
     padding-bottom: 0.5rem;
 }
@@ -155,19 +155,19 @@ li {
 
 .resource-list {
     list-style-type: none; /* Remove the default list style */
-    padding: 0; /* Remove the default padding */
+    padding: 0px; /* Remove the default padding */
     text-align: center; /* Center the resource links */
 }
 
 .resource-list li {
-    margin: 2rem; /* Add some space between resource links */
+    margin: 0.75rem; /* Add some space between resource links */
     display: inline-block; /* Display resource links inline with spacing */
 }
 
 .resource-list a {
     text-decoration: none; /* Remove the default link underline */
     color: #4caf50; /* Set the link color */
-    font-size: 2rem; /* Set the font size for the resource links */
+    font-size: 1.5rem; /* Set the font size for the resource links */
 }
 
 .resource-list a:hover {
@@ -184,11 +184,12 @@ li {
 
 .banner {
     background-color: #333; /* Change the background color of the banner */
-    padding: 1rem;
-    font-size: 2rem;
+    padding: 0.5rem;
+    font-size: 1.5rem;
     color: white; /* Change the text color of the banner */
     text-align: center; /* Center the text within the banner */
     width: 100%; /* Make the banner span the full width of the section */
+    max-height: 30px;
     margin: 0 auto;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
     border-radius: 30px; 
@@ -237,48 +238,6 @@ button:hover {
         opacity: 0.2;
     }
 }
-
-.navbar {
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
-    background-color: #333;
-    color = 'white';
-    padding: 0px;
-    z-index: 1000;
-}
-
-.navbar ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    display: flex;
-    justify-content: center;
-}
-
-.navbar li {
-    margin: 0 10px;
-}
-
-.navbar a {
-    display: block;
-    color: white;
-    text-decoration: none;
-    padding: 8px 16px;
-}
-
-.navbar a:hover {
-    background-color: #111;
-}
-
-/* turn off navbar in small screens */
-@media screen and (max-width: 768px) {
-  .navbar {
-    display: none; /* Hide the navbar on smaller screens */
-  }
-}
-
 
 .news-list {
     list-style-type:disc;
