@@ -272,41 +272,13 @@ button:hover {
     background-color: #111;
 }
 
-@media screen and (max-width: 768px) {
-  header {
-    padding-top: 60px; /* Add padding to the top of the header to accommodate the navbar height */
-  }
-
-  .header-content {
-    top: 50%;
-    transform: translateY(-50%); /* Update the translateY value to center the header content vertically */
-  }
-}
-
-/* Responsive navbar styles for smaller screens */
+/* turn off navbar in small screens */
 @media screen and (max-width: 768px) {
   .navbar {
-    position: static; /* Change the position to static so that the navbar doesn't overlap the header */
-    flex-direction: column;
-    align-items: center;
-    text-align: center;
-    padding-bottom: 20px; /* Add some padding to the bottom of the navbar */
-  }
-
-  .navbar ul {
-    display: flex;
-    flex-direction: column;
-    width: 100%;
-  }
-
-  .navbar li {
-    margin-bottom: 10px;
-  }
-
-  .navbar li:last-child {
-    margin-bottom: 0;
+    display: none; /* Hide the navbar on smaller screens */
   }
 }
+
 
 .news-list {
     list-style-type:disc;
