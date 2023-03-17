@@ -271,3 +271,44 @@ button:hover {
 .navbar a:hover {
     background-color: #111;
 }
+
+.news-list {
+    list-style-type:disc;
+    padding: 0;
+    padding-left: 40px; /* Add some padding on the left side to align the bullet points */
+}
+
+.news-list li {
+    margin-bottom: 10px;
+}
+
+.news-list a {
+    color: #1a73e8;
+    text-decoration: none;
+    position: relative; /* Add a relative position to position the arrow correctly */
+    transition: color 0.3s ease;
+}
+
+.news-list a::after {
+    content: ""; /* Add an empty content for the ::after pseudo-element */
+    position: absolute;
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-width: 5px 0 5px 5px; /* Set the border widths to create a triangle shape */
+    border-color: transparent transparent transparent #1a73e8; /* Set the border colors to create an arrow effect */
+    top: 50%; /* Position the arrow at the vertical center of the link */
+    left: 100%; /* Position the arrow to the right of the link */
+    margin-top: -5px; /* Adjust the margin to vertically center the arrow */
+    opacity: 0; /* Set the initial opacity to 0 (invisible) */
+    transition: opacity 0.3s ease; /* Add a transition for the opacity property */
+}
+
+.news-list a:hover {
+    color: #e53935;
+}
+
+.news-list a:hover::after {
+    opacity: 1; /* Change the opacity to 1 (visible) on hover */
+    border-color: transparent transparent transparent #e53935; /* Update the arrow color on hover */
+}
