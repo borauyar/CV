@@ -272,6 +272,29 @@ button:hover {
     background-color: #111;
 }
 
+/* Responsive navbar styles for smaller screens */
+@media screen and (max-width: 768px) {
+  .navbar {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+
+  .navbar ul {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+  }
+
+  .navbar li {
+    margin-bottom: 10px;
+  }
+
+  .navbar li:last-child {
+    margin-bottom: 0;
+  }
+}
+
 .news-list {
     list-style-type:disc;
     padding: 0;
