@@ -11,19 +11,22 @@
     <div class="background-image"></div>
     
     <header>
-        <img class="circular-image" src="img/BU.jpg" alt="photo">
-        <h1> Dr. Bora Uyar</h1>
-            <div class="contact-info">
-                    <p>bora.uyar@mdc-berlin.de</p>
-                <p><a href="https://borauyar.com">borauyar.com</a></p>
-                <p><a href="https://arcas.ai">arcas.ai</a></p>
-                    <p>Bioinformatics & Omics Data Science Platform </p> 
-                <p>Max-Delbruck-Center for Molecular Medicine</p>
-                <p>Hannoversche Str. 28, Berlin, Berlin 10115, Germany</p>
-            </div>
-        <button id="download-pdf">Download as PDF</button>
+        <div class="image-name-wrapper">
+            <img class="circular-image" src="img/BU.jpg" alt="photo">
+            <h1>Dr. Bora Uyar</h1>
+        </div>
+        <div class="contact-info">
+            <p>bora.uyar@mdc-berlin.de</p>
+            <p><a href="https://borauyar.com">borauyar.com</a></p>
+            <p><a href="https://arcas.ai">arcas.ai</a></p>
+            <p>Bioinformatics & Omics Data Science Platform </p>
+            <p>Max-Delbruck-Center for Molecular Medicine</p>
+            <p>Hannoversche Str. 28, Berlin, Berlin 10115, Germany</p>
+        </div>
     </header>
-    
+    <div class="download-container">
+        <button id="download-pdf">Download as PDF</button>
+    </div>
     <main>
 
         <div class="section" id="summary">
@@ -256,17 +259,24 @@
     <script>
         document.getElementById("download-pdf").addEventListener("click", function () {
             var element = document.body;
+            var downloadButton = document.getElementById("download-pdf");
+            downloadButton.style.display = "none"; // Hide the button
+
             var opt = {
-            margin: [10, 10, 10, 10],
+                margin: [10, 10, 10, 10],
                 filename: 'BoraUyar.CV.pdf',
                 image: { type: 'jpeg', quality: 0.98 },
                 html2canvas: { scale: 2 },
                 jsPDF: { unit: 'mm', format: 'a4', orientation: 'portrait' }
             };
-            html2pdf().set(opt).from(element).save();
-    });
+
+            html2pdf().set(opt).from(element).save().then(function() {
+                downloadButton.style.display = ""; // Show the button again
+            });
+        });
     </script>
 
 </body>
 </html>
+
 

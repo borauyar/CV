@@ -30,23 +30,32 @@ html {
 }
 
 header {
-    display: flex; 
-    align-items: center; 
+    position: relative; /* Add position relative to the header */
+    display: grid;
+    grid-template-columns: auto auto;
+    align-items: center;
     justify-content: center;
-    flex-wrap: wrap;
+    gap: 20px;
     text-align: center;
     padding: 0rem 0;
     background-color: #333;
     color: white;
-    width: 100%
+    width: 100%;
     margin: 0 auto;
     margin-top: 5px;
     border-radius: 30px;
 }
 
+/* Add media query to adjust the button position for smaller screens */
+@media (max-width: 600px) {
+    #download-pdf {
+        top: 5px;
+        right: 5px;
+    }
+}
+
 .contact-info {
     font-size: 1rem; /* Set the font size for the contact information */
-    margin-left: 20px; /* Add some space between the contact information and other header content */
 }
 
 .contact-info p {
@@ -55,6 +64,7 @@ header {
 
 header h1 {
     font-size: 2.5rem;
+    margin-top: 0; /* Remove the default margin from the heading */
 }
 
 main {
@@ -220,13 +230,29 @@ td:last-child {
 }
 
 button {
-    background-color: #1a73e8;
+    background-color: #28a745;/*#1a73e8*/
     color: #fff;
     border: none;
-    padding: 10px 20px;
+    padding: 5px 10px; /* Adjust the padding */
     cursor: pointer;
     border-radius: 4px;
     transition: background-color 0.3s, transform 0.3s;
+    font-size: 0.8rem; /* Adjust the font size */
+}
+
+.download-container {
+    text-align: center;
+    padding-top: 10px; /* Adjust the distance between the button and the header */
+}
+
+#download-pdf {
+    display: inline-block;
+}
+
+@media print {
+    #download-pdf {
+        display: none;
+    }
 }
 
 button:hover {
