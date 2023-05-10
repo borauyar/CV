@@ -86,6 +86,24 @@ li {
     margin-bottom: 0.5rem;
 }
 
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+th, td {
+    border-right: 1px solid black;
+    padding: 8px;
+    text-align: left;
+}
+th {
+    background-color: #f2f2f2;
+}
+/* Remove border from the last table header and table cell */
+th:last-child,
+td:last-child {
+    border-right: none;
+}
+
 .date, .position, .degree {
     font-weight: bold;
 }
