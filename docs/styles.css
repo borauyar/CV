@@ -1,265 +1,311 @@
-/* styles.css */
+/* Define CSS variables for easy theming */
+:root {
+    --primary-color: #1a73e8;
+    --secondary-color: #333;
+    --background-color: #f5f5f5;
+    --text-color: #333;
+    --accent-color: #3f8e53;
+    --font-family: 'Montserrat', sans-serif;
+}
 
-/* Reset some default styles */
-body, h1, h2, h3, p, ul {
+/* Reset and basic styles */
+body, h1, h2, h3, p, ul, li, a {
     margin: 0;
     padding: 0;
+    color: var(--text-color);
 }
 
 body {
-    font-family: 'Roboto', sans-serif;
-    line-height: 1.6;
-    max-width: 960px;
+    font-family: var(--font-family);
+    background-color: var(--background-color);
+    max-width: 1200px;
     margin: 0 auto;
     padding: 1rem;
-    background-color: #f5f5f5;
-    color: #333;
 }
 
 a {
-    color: #1a73e8;
+    color: var(--primary-color);
+    text-decoration: none;
 }
 
 a:hover {
-    color: #0f56b3;
+    color: var(--accent-color);
 }
 
-
-html {
-    scroll-behavior: smooth;
+h1, h2, h3 {
+    font-weight: 700;
 }
 
+p {
+    line-height: 1.6;
+}
+
+/* Header styles */
 header {
-    position: relative; /* Add position relative to the header */
-    display: grid;
-    grid-template-columns: auto auto;
-    align-items: center;
-    justify-content: center;
-    gap: 20px;
-    text-align: center;
-    padding: 0rem 0;
-    background-color: #333;
+    background-color: var(--secondary-color);
     color: white;
-    width: 100%;
-    margin: 0 auto;
-    margin-top: 5px;
-    border-radius: 30px;
-}
-
-/* Add media query to adjust the button position for smaller screens */
-@media (max-width: 600px) {
-    #download-pdf {
-        top: 5px;
-        right: 5px;
-    }
-}
-
-.contact-info {
-    font-size: 1rem; /* Set the font size for the contact information */
-}
-
-.contact-info p {
-    margin: 0; /* Remove the default margin from the paragraphs */
-}
-
-header h1 {
-    font-size: 2.5rem;
-    margin-top: 0; /* Remove the default margin from the heading */
-}
-
-main {
-    padding: 2rem 0;
-    margin-top: 5px;
-}
-
-section {
+    padding: 2rem;
+    border-radius: 10px;
     margin-bottom: 2rem;
 }
 
-h2 {
-    font-size: 1.5rem;
-    margin-bottom: 0.5rem;
-    border-bottom: 2px solid #333;
-    padding-bottom: 0.5rem;
+header h1, header h2, header h3 {
+    color: white;
 }
 
-h3 {
-    font-size: 1.2rem;
-    margin-bottom: 0.75rem;
+/* Paragraphs inside the header */
+header p {
+    color: white;
 }
 
-ul {
-    list-style-type: none;
+/* Links inside the header */
+header a {
+    color: white;
 }
 
-li {
-    margin-bottom: 0.5rem;
+header a:hover {
+    color: #ddd; /* Light gray on hover */
 }
 
-table {
-    border-collapse: collapse;
-    width: 100%;
-}
-th, td {
-    border-right: 1px solid black;
-    padding: 8px;
-    text-align: left;
-}
-th {
-    background-color: #f2f2f2;
-}
-/* Remove border from the last table header and table cell */
-th:last-child,
-td:last-child {
-    border-right: none;
-}
 
-.date, .position, .degree {
-    font-weight: bold;
-}
-
-.publications {
+.header-content {
     display: flex;
+    align-items: center;
     flex-wrap: wrap;
-    gap: 0.5rem;
-    justify-content: space-between;
-    margin-top: -3rem;
 }
 
-.publication {
-    width: calc(45% - 1rem);
-    background-color: white;
-    padding: 1rem;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-    border-radius: 50px;
-    transition: all 0.3s ease; /* Add a transition for all properties */
-}
-
-.publication:hover {
-    background-color: #f0f0f0; /* Change the background color when hovered */
-    transform: scale(1.05); /* Scale the publication box when hovered */
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15); /* Change the box shadow when hovered */
-}
-
-/* Responsive styles for smaller screens */
-@media (max-width: 768px) {
-    .publication {
-        width: calc(50% - 1rem);
-    }
-}
-
-@media (max-width: 480px) {
-    .publication {
-        width: 100%;
-    }
-}
-
-.publication img {
-    width: 100%;
-    height: auto;
-    max-width: 300px; /* Add a maximum width */
-    max-height: 300px; /* Add a maximum height */
-    object-fit: cover; /* Add this line to maintain the aspect ratio and prevent distortion */
-    display: block; /* Add this line to make the image a block-level element */
-    margin: 0 auto; /* Add this line to center the image horizontally */
-}
-
-.publication a {
-    edisplay: inline-block;
-    margin-top: 1rem;
-    color: #333;
-    text-decoration: none;
-    border: 1px solid #333;
-    border-radius: 20px;
-    padding: 0.5rem 1rem;
-    transition: all 0.3s ease;
-}
-
-.publication a:hover {
-    background-color: #3f8e53;
-    color: white
-    font-size: 2rem;
-}
-
-.resource-list {
-    list-style-type: none; /* Remove the default list style */
-    padding: 0px; /* Remove the default padding */
-    text-align: center; /* Center the resource links */
-}
-
-.resource-list li {
-    margin: 0.75rem; /* Add some space between resource links */
-    display: inline-block; /* Display resource links inline with spacing */
-}
-
-.resource-list a {
-    text-decoration: none; /* Remove the default link underline */
-    color: #4caf50; /* Set the link color */
-    font-size: 1.5rem; /* Set the font size for the resource links */
-}
-
-.resource-list a:hover {
-    color: #3f8e53; /* Set the hover color for the resource links */
+.header-text {
+    margin-left: 2rem;
+    flex: 1;
 }
 
 .circular-image {
-    width: 120px; /* Set the width of the image */
-    height: 120px; /* Set the height of the image */
-    border-radius: 30%; /* Make the image circular */
-    object-fit: cover; /* Preserve the aspect ratio and cover the container */
-    margin-right: 20px; /* Add some space between the image and the title text */
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
 }
 
-.banner {
-    background-color: #333; /* Change the background color of the banner */
-    padding: 0.5rem;
-    font-size: 1.5rem;
-    color: white; /* Change the text color of the banner */
-    text-align: center; /* Center the text within the banner */
-    width: 100%; /* Make the banner span the full width of the section */
-    max-height: 30px;
-    margin: 0 auto;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-    border-radius: 30px; 
-    transition: all 0.3s ease;
+/* Contact Info */
+.contact-info p {
+    margin: 0.5rem 0;
 }
 
-.banner:hover {
-    background-color: #3f8e53; /* Change the background color when hovered */
-    transform: scale(1.02); /* Scale the banner slightly when hovered */
+.contact-info a {
+    color: white;
 }
 
-button {
-    background-color: #555555;/*#28a745*/
-    color: #fff;
-    border: none;
-    padding: 5px 10px; /* Adjust the padding */
-    cursor: pointer;
-    border-radius: 4px;
-    transition: background-color 0.3s, transform 0.3s;
-    font-size: 0.8rem; /* Adjust the font size */
+.contact-info a:hover {
+    text-decoration: underline;
 }
 
+/* Download Button */
 .download-container {
     text-align: center;
-    padding-top: 10px; /* Adjust the distance between the button and the header */
+    margin-bottom: 2rem;
 }
 
-#download-pdf {
+.download-pdf-button {
     display: inline-block;
+    background-color: var(--primary-color);
+    color: white;
+    padding: 0.75rem 1.5rem;
+    font-size: 1rem;
+    border-radius: 5px;
+    text-decoration: none;
+    transition: background-color 0.3s;
 }
 
-@media print {
-    #download-pdf {
-        display: none;
+.download-pdf-button:hover {
+    background-color: var(--accent-color);
+}
+
+/* Main content styles */
+main {
+    padding: 1rem 0;
+}
+
+/* Section titles */
+h2 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+    color: var(--secondary-color);
+    border-bottom: 2px solid var(--accent-color);
+}
+
+/* Tables */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 2rem;
+}
+
+th, td {
+    border: 1px solid #ddd;
+    padding: 0.75rem;
+    text-align: left;
+}
+
+th {
+    background-color: #f9f9f9;
+}
+
+/* Profiles List */
+.profile-list {
+    list-style: none;
+    display: flex;
+    gap: 1rem;
+    flex-wrap: wrap;
+}
+
+.profile-list li {
+    margin-bottom: 0.5rem;
+}
+
+.profile-list a {
+    background-color: var(--primary-color);
+    color: white;
+    padding: 0.5rem 1rem;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+}
+
+.profile-list a:hover {
+    background-color: var(--accent-color);
+}
+
+/* News Articles */
+.news-list {
+    list-style: disc inside;
+    margin-bottom: 2rem;
+}
+
+.news-list li {
+    margin-bottom: 0.5rem;
+}
+
+.news-list a {
+    color: var(--primary-color);
+}
+
+.news-list a:hover {
+    color: var(--accent-color);
+}
+
+/* Swiper styles */
+.swiper-container {
+    width: 100%;
+    padding-top: 20px;
+    padding-bottom: 50px;
+}
+
+.swiper-slide {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.publication-item {
+    width: 90%;
+    max-width: 700px;
+    height: 700px; /* Adjusted height */
+    background-color: white;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    display: flex;
+    flex-direction: column;
+}
+
+.publication-image {
+    flex: 1;
+    overflow: hidden;
+    position: relative;
+}
+
+.publication-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain; /* Changed to 'contain' */
+    display: block;
+    background-color: #f0f0f0; /* Optional: background color behind images */
+}
+
+.publication-content {
+    flex: 1;
+    padding: 1rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.publication-content h3 {
+    font-size: 1.2rem;
+    margin-bottom: 0.5rem;
+}
+
+.publication-content p {
+    color: var(--accent-color);
+    font-weight: bold;
+    margin-bottom: 0.5rem;
+}
+
+.publication-details p {
+    font-size: 0.9rem;
+    margin-bottom: 0.5rem;
+}
+
+.publication-details a {
+    background-color: var(--primary-color);
+    color: white;
+    padding: 0.5rem 1rem;
+    border-radius: 5px;
+    text-decoration: none;
+    transition: background-color 0.3s;
+}
+
+.publication-details a:hover {
+    background-color: var(--accent-color);
+}
+
+/* Swiper Navigation Buttons */
+.swiper-button-prev,
+.swiper-button-next {
+    color: var(--primary-color);
+}
+
+.swiper-button-prev:hover,
+.swiper-button-next:hover {
+    color: var(--accent-color);
+}
+
+.swiper-pagination-bullet {
+    background: var(--primary-color);
+}
+
+.swiper-pagination-bullet-active {
+    background: var(--accent-color);
+}
+
+/* Responsive design */
+@media (max-width: 768px) {
+    .header-content {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .header-text {
+        margin-left: 0;
+        text-align: center;
+        margin-top: 1rem;
+    }
+
+    .publication-item {
+        height: auto; /* Allow height to adjust on smaller screens */
     }
 }
 
-button:hover {
-    background-color: #0f56b3;
-    transform: translateY(-2px);
-}
-
+/* Background Image */
 .background-image {
     position: fixed;
     top: 0;
@@ -275,51 +321,8 @@ button:hover {
 }
 
 @keyframes fadeIn {
-    0% {
-        opacity: 0;
-    }
-    100% {
+    to {
         opacity: 0.2;
     }
 }
 
-.news-list {
-    list-style-type:disc;
-    padding: 0;
-    padding-left: 40px; /* Add some padding on the left side to align the bullet points */
-}
-
-.news-list li {
-    margin-bottom: 10px;
-}
-
-.news-list a {
-    color: #1a73e8;
-    text-decoration: none;
-    position: relative; /* Add a relative position to position the arrow correctly */
-    transition: color 0.3s ease;
-}
-
-.news-list a::after {
-    content: ""; /* Add an empty content for the ::after pseudo-element */
-    position: absolute;
-    width: 0;
-    height: 0;
-    border-style: solid;
-    border-width: 5px 0 5px 5px; /* Set the border widths to create a triangle shape */
-    border-color: transparent transparent transparent #1a73e8; /* Set the border colors to create an arrow effect */
-    top: 50%; /* Position the arrow at the vertical center of the link */
-    left: 100%; /* Position the arrow to the right of the link */
-    margin-top: -5px; /* Adjust the margin to vertically center the arrow */
-    opacity: 0; /* Set the initial opacity to 0 (invisible) */
-    transition: opacity 0.3s ease; /* Add a transition for the opacity property */
-}
-
-.news-list a:hover {
-    color: #e53935;
-}
-
-.news-list a:hover::after {
-    opacity: 1; /* Change the opacity to 1 (visible) on hover */
-    border-color: transparent transparent transparent #e53935; /* Update the arrow color on hover */
-}

@@ -1,0 +1,81 @@
+\documentclass[11pt,a4paper,sans]{moderncv}
+
+% ModernCV themes
+\moderncvstyle{classic} % Style options: 'casual', 'classic', 'banking', 'oldstyle', 'fancy'
+\moderncvcolor{blue}    % Color options: 'blue', 'orange', 'green', 'red', 'purple', 'grey', 'black'
+
+% Encoding and fonts
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+
+% Adjust margins
+\usepackage[scale=0.75]{geometry}
+
+% Personal data
+\name{Dr. Bora}{Uyar}
+\title{Bioinformatics Scientist}                   % Optional
+\address{Hannoversche Str. 28}{Berlin 10115}{Germany}% Optional
+\phone[mobile]{+49~123~456789}                     % Optional
+\email{bora.uyar@mdc-berlin.de}                    % Optional
+\homepage{https://borauyar.github.io/}                        % Optional
+\social[github]{borauyar}                          % Optional
+\social[linkedin]{bora-uyar-11050425}              % Optional
+\extrainfo{\href{https://arcas.ai}{arcas.ai}} % Optional
+\photo[96pt][0.8pt]{BU.jpg}                        % Optional, adjust dimensions as needed
+\quote{}                                           % Optional
+
+\begin{document}
+\makecvtitle
+
+\section{Summary}
+I am a Bioinformatics Scientist at the Bioinformatics \& Omics Data Science platform of the Max-Delbrück-Center for Molecular Medicine. My roles in the platform include research, collaborations with other labs in the institute, and supporting other researchers in the form of consultations, mentorships, workshops, and user-friendly software development for wet-lab researchers. I am also a member of the \href{https://arcas.ai/about-us}{arcas.ai team}, where my current research is focused on development of deep learning-based multi-modal data integration tools for precision oncology. My work in the last 15 years spanned various categories such as comparative genomics, protein sequence analysis in the context of molecular interactions and disease mechanisms, RNA bioinformatics, and omics data science with a focus on development of reproducible software for the bioinformatics community.
+
+\section{Experience}
+\cventry{2015--Present}{Bioinformatics Scientist}{Max-Delbrück-Center for Molecular Medicine}{Berlin, Germany}{}{%
+\begin{itemize}%
+\item Conduct research and collaborations with other labs.
+\item Support researchers through consultations, mentorships, and workshops.
+\item Develop user-friendly software for wet-lab researchers.
+\end{itemize}}
+
+\cventry{2014--2015}{Postdoctoral Fellow}{European Molecular Biology Laboratory}{Heidelberg, Germany}{}{}
+
+\section{Education}
+\cventry{2011--2014}{Ph.D. in Bioinformatics}{European Molecular Biology Laboratory}{Heidelberg, Germany}{}{}
+\cventry{2008--2010}{M.Sc. in Bioinformatics}{Simon Fraser University, BC Cancer Agency}{Vancouver, Canada}{}{}
+\cventry{2003--2008}{B.Sc. in Biological Sciences}{Sabanci University}{Istanbul, Turkey}{}{}
+
+\section{Skills}
+\cvitem{Programming Languages}{Python, R, Bash/Shell (\textit{Active}); Perl, C++, SQL (\textit{Familiar/Past})}
+\cvitem{Deep Learning Development}{PyTorch, PyTorch Lightning, PyTorch Geometric (\textit{Active}); TensorFlow, Keras (\textit{Familiar/Past})}
+\cvitem{Machine Learning Methods}{Random Forests, SVMs, GLMnet}
+\cvitem{Version Control}{Git (\textit{Active}); Subversion (\textit{Familiar/Past})}
+\cvitem{Workflows}{Snakemake (\textit{Active}); CWL (\textit{Familiar/Past})}
+\cvitem{Package Management}{Conda, Guix (\textit{Active}); Docker (\textit{Familiar/Past})}
+\cvitem{Data Science Toolkits}{CRAN/Bioconductor, Python libraries (scikit-learn, NumPy, pandas, Matplotlib)}
+\cvitem{Keywords}{Omic data science for precision oncology, protein language models, causal network analysis, single-cell data analysis (\textit{Active}); Comparative genomics, short linear motifs (\textit{Familiar/Past})}
+
+\section{Profiles}
+\cvitemwithcomment{Google Scholar}{\href{https://scholar.google.com/citations?user=YEZr1LUAAAAJ&hl=en}{scholar.google.com/YEZr1LUAAAAJ}}{}
+\cvitemwithcomment{GitHub}{\href{https://github.com/borauyar}{github.com/borauyar}}{}
+\cvitemwithcomment{ORCID}{\href{https://orcid.org/0000-0002-3170-4890}{orcid.org/0000-0002-3170-4890}}{}
+\cvitemwithcomment{LinkedIn}{\href{https://www.linkedin.com/in/bora-uyar-11050425/}{linkedin.com/in/bora-uyar-11050425}}{}
+
+\section{News Articles}
+\cvlistitem{\href{https://www.mdc-berlin.de/news/news/new-textbook-computational-genomics}{New textbook for computational genomics (mdc-berlin.de)}}
+\cvlistitem{\href{https://www.bionity.com/en/news/1178091/searching-the-sewers-for-viruses.html}{Searching the sewers for viruses (bionity.com)}}
+\cvlistitem{\href{https://www.bionity.com/en/news/1176478/ai-identifies-cancer-cells.html}{AI identifies cancer cells (bionity.com)}}
+\cvlistitem{\href{https://www.genengnews.com/news/parallel-genome-editing-in-microscopic-worms-maps-regulatory-genomic-elements-to-physiology/}{Parallel Genome Editing in Microscopic Worms Maps Regulatory Genomic Elements to Physiology (genengnews.com)}}
+\cvlistitem{\href{https://www.sciencedaily.com/releases/2018/09/180906141632.htm}{Stray proteins cause genetic disorders (sciencedaily.com)}}
+\cvlistitem{\href{https://www.bionity.com/en/news/1162354/a-genetic-chaperone-for-healthy-aging.html}{A genetic chaperone for healthy aging? (bionity.com)}}
+
+\section{Selected Publications}
+\cvitem{Genome Biology, 2022}{\href{https://genomebiology.biomedcentral.com/articles/10.1186/s13059-022-02683-1}{Identifying tumor cells at the single-cell level using machine learning}}
+\cvitem{Cell Reports, 2021}{\href{https://www.sciencedirect.com/science/article/pii/S2211124721003028}{Parallel genetics of regulatory sequences using scalable genome editing in vivo}}
+\cvitem{Aging Research Reviews, 2020}{\href{https://www.sciencedirect.com/science/article/pii/S1568163720302919}{Single-cell analyses of aging, inflammation and senescence}}
+\cvitem{GigaScience, 2018}{\href{https://academic.oup.com/gigascience/article/7/12/giy123/5114263}{PiGx: reproducible genomics analysis pipelines with GNU Guix}}
+\cvitem{Cell, 2018}{\href{https://www.sciencedirect.com/science/article/pii/S0092867418310353}{Mutations in Disordered Regions Can Cause Disease by Creating Dileucine Motifs}}
+\cvitem{Nucleic Acids Research, 2017}{\href{https://academic.oup.com/nar/article/45/10/e91/3038237}{RCAS: an RNA centric annotation system for transcriptome-wide regions of interest}}
+
+\end{document}
+

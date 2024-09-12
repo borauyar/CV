@@ -1,42 +1,51 @@
-<!DOCT:YPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Bora Uyar, CV</title>
     <link rel="stylesheet" href="styles.css">
-    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet">
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;700&display=swap" rel="stylesheet">
+    <!-- Include Swiper CSS -->
+    <link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css">
 </head>
 <body>
+    <!-- Background Image -->
     <div class="background-image"></div>
-    
+
+    <!-- Header Section -->
     <header>
-        <div class="image-name-wrapper">
-            <img class="circular-image" src="img/BU.jpg" alt="photo">
-            <h1>Dr. Bora Uyar</h1>
-        </div>
-        <div class="contact-info">
-            <p>bora.uyar@mdc-berlin.de</p>
-            <p><a href="https://borauyar.com">borauyar.com</a></p>
-            <p><a href="https://arcas.ai">arcas.ai</a></p>
-            <p>Bioinformatics & Omics Data Science Platform </p>
-            <p>Max-Delbruck-Center for Molecular Medicine</p>
-            <p>Hannoversche Str. 28, Berlin, Berlin 10115, Germany</p>
+        <div class="header-content">
+            <img class="circular-image" src="img/BU.jpg" alt="Dr. Bora Uyar">
+            <div class="header-text">
+                <h1>Dr. Bora Uyar</h1>
+                <p>Bioinformatics Scientist at Max-Delbrück-Center for Molecular Medicine</p>
+                <div class="contact-info">
+                    <p>Email: <a href="mailto:bora.uyar@mdc-berlin.de">bora.uyar@mdc-berlin.de</a></p>
+                    <p>Website: <a href="https://borauyar.github.io/">https://borauyar.github.io/</a></p>
+                    <p>Address: Hannoversche Str. 28, Berlin 10115, Germany</p>
+                </div>
+            </div>
         </div>
     </header>
+
+    <!-- Download PDF Button -->
     <div class="download-container">
-        <button id="download-pdf">Download as PDF</button>
+        <a href="https://github.com/borauyar/CV/raw/master/docs/cv.pdf" target="_blank" class="download-pdf-button">Download as PDF</a>
     </div>
+
+    <!-- Main Content -->
     <main>
+        <!-- Summary Section -->
+        <section id="summary">
+            <h2>Summary</h2>
+            <p>
+                I am a Bioinformatics Scientist at the Bioinformatics & Omics Data Science platform of the Max-Delbruck-Center for Molecular Medicine. My roles in the platform include research, collaborations with other labs in the institute, and supporting other researchers in the form of consultations, mentorships, workshops, and user-friendly software development for wet-lab researchers. I am also a member of the <a href="https://arcas.ai/about-us">arcas.ai team</a>, where my current research is focused on development of deep learning-based multi-modal data integration tools for precision oncology. My work in the last 15 years spanned various categories such as comparative genomics, protein sequence analysis in the context of molecular interactions and disease mechanisms, RNA bioinformatics, and omics data science with a focus on development of reproducible software for the bioinformatics community.
+            </p>
+        </section>
 
-        <div class="section" id="summary">
-                <h2>Summary</h2>
-                <p>
-                    I am a Bioinformatics Scientist at the Bioinformatics & Omics Data Science platform of the Max-Delbruck-Center for Molecular Medicine. My roles in the platform include research, collaborations with other labs in the institute, and supporting other researchers in the form of consultations, mentorships, workshops, and user-friendly software development for wet-lab researchers. I am also a member of the <a href="https://arcas.ai/about-us">arcas.ai team</a>, where my current research is focused on development of deep learning-based multi-modal data integration tools for precision oncology. My work in the last 15 years spanned various categories such as comparative genomics, protein sequence analysis in the context of molecular interactions and disease mechanisms, RNA bioinformatics, and omics data science with a focus on development of reproducible software for the bioinformatics community.  
-                </p>
-        </div>
-
-        <div class="section" id="Experience">
+        <!-- Experience Section -->
+        <section id="experience">
             <h2>Experience</h2>
             <table>
                 <tr>
@@ -46,9 +55,9 @@
                     <th>Location</th>
                 </tr>
                 <tr>
-                    <td>2015 - present</td>
+                    <td>2015 - Present</td>
                     <td>Bioinformatics Scientist</td>
-                    <td>Max-Delbruck-Center for Molecular Medicine</td>
+                    <td>Max-Delbrück-Center for Molecular Medicine</td>
                     <td>Berlin, Germany</td>
                 </tr>
                 <tr>
@@ -58,9 +67,10 @@
                     <td>Heidelberg, Germany</td>
                 </tr>
             </table>
-        </div>
+        </section>
 
-        <div class="section" id="Education">
+        <!-- Education Section -->
+        <section id="education">
             <h2>Education</h2>
             <table>
                 <tr>
@@ -88,9 +98,10 @@
                     <td>Istanbul, Turkey</td>
                 </tr>
             </table>
-        </div>
+        </section>
 
-        <div class="section" id="Skills">
+        <!-- Skills Section -->
+        <section id="skills">
             <h2>Skills</h2>
             <table>
                 <tr>
@@ -105,8 +116,8 @@
                 </tr>
                 <tr>
                     <td>Deep Learning Development</td>
-                    <td>Pytorch, Pytorch-lightning, Pytorch-geometric</td>
-                    <td>Tensorflow, Keras</td>
+                    <td>PyTorch, PyTorch Lightning, PyTorch Geometric</td>
+                    <td>TensorFlow, Keras</td>
                 </tr>
                 <tr>
                     <td>Machine Learning Methods</td>
@@ -115,43 +126,45 @@
                 </tr>
                 <tr>
                     <td>Version Control</td>
-                    <td>git</td>
-                    <td>subversion</td>
+                    <td>Git</td>
+                    <td>Subversion</td>
                 </tr>
                 <tr>
                     <td>Workflows</td>
-                    <td>snakemake</td>
+                    <td>Snakemake</td>
                     <td>CWL</td>
                 </tr>
                 <tr>
                     <td>Package Management</td>
-                    <td>conda, guix</td>
-                    <td>docker</td>
+                    <td>Conda, Guix</td>
+                    <td>Docker</td>
                 </tr>
                 <tr>
                     <td>Data Science Toolkits</td>
-                    <td>CRAN/Bioconductor, Python libraries (scikitlearn, numpy, pandas, matplotlib)</td>
+                    <td>CRAN/Bioconductor, Python libraries (scikit-learn, NumPy, pandas, Matplotlib)</td>
                     <td></td>
                 </tr>
                 <tr>
-                    <td>Keyword</td>
+                    <td>Keywords</td>
                     <td>Omic data science for precision oncology, protein language models, causal network analysis, single-cell data analysis</td>
-                    <td>comparative genomics, short linear motifs</td>
+                    <td>Comparative genomics, short linear motifs</td>
                 </tr>
             </table>
-        </div>
-    
-        <div class="section" id="resources">
-            <h2>Profiles</h2> <!-- Add the "banner" class -->
-            <ul class="resource-list">
+        </section>
+
+        <!-- Profiles Section -->
+        <section id="profiles">
+            <h2>Profiles</h2>
+            <ul class="profile-list">
                 <li><a href="https://scholar.google.com/citations?user=YEZr1LUAAAAJ&hl=en">Google Scholar</a></li>
                 <li><a href="https://github.com/borauyar">GitHub</a></li>
                 <li><a href="https://orcid.org/0000-0002-3170-4890">ORCID</a></li>
                 <li><a href="https://www.linkedin.com/in/bora-uyar-11050425/">LinkedIn</a></li>
             </ul>
-        </div>
-        
-        <div class="section" id="news">
+        </section>
+
+        <!-- News Articles Section -->
+        <section id="news">
             <h2>News Articles</h2>
             <ul class="news-list">
                 <li>
@@ -184,99 +197,142 @@
                         A genetic chaperone for healthy aging? (bionity.com)
                     </a>
                 </li>
-                <!-- Add more news articles as needed -->
             </ul>
-        </div>
+        </section>
 
-        
-    </main>
-
-    <main> 
-        <section class="publications" id="publications">
-            <h2 class="banner">Selected Publications</h2> 
-            <!-- Publication Box 1 -->
-            <div class="publication">
-                <img src="img/ikarus.png" alt="Ikarus">
-                <h3>Identifying tumor cells at the single-cell level using machine learning. Genome Biology, 2022 </h3>
-                <p> Ikarus is a machine learning pipeline designed to identify tumor cells from normal cells in single-cell sequencing data. Tested on multiple datasets, it demonstrates high sensitivity and specificity in distinguishing cell types in various experimental contexts.
-                </p>
-                <a href="https://genomebiology.biomedcentral.com/articles/10.1186/s13059-022-02683-1" target="_blank">Read More</a>
-            </div>
-
-            <!-- Publication Box 2 -->
-            <div class="publication">
-                <img src="img/crispr_dart.png" alt="crispr_dart">
-                <h3>Parallel genetics of regulatory sequences using scalable genome editing in vivo. Cell Reports, 2021</h3>
-                <p>
-                    The crispr-DART software is used to analyze indel mutations in targeted DNA sequencing, providing insights into the impact of mutations on gene expression and fitness. By applying the software in conjunction with inducible Cas9 and multiplexed guide RNAs, researchers can study regulatory sequences directly in animals, helping to understand their role in health and disease.
-                </p>
-                <a href="https://www.sciencedirect.com/science/article/pii/S2211124721003028" target="_blank">Read More</a>
-            </div>
-
-            <!-- Publication Box 3 -->
-            <div class="publication">
-                <img src="img/senescence.jpg" alt="senescence">
-                <h3>Single-cell analyses of aging, inflammation and senescence. Aging Res. Reviews, 2020 </h3>
-                <p>
-                    This study compiles and analyzes aging-related single-cell gene expression datasets, highlighting unique insights that are difficult to obtain from bulk data. The findings reveal increased cellular senescence markers, inflammatory processes, and transcriptional heterogeneity with age, suggesting single-cell experiments could provide critical information for interventions targeting aging, inflammation, senescence, and disease.
-                </p>
-                <a href="https://www.sciencedirect.com/science/article/pii/S1568163720302919?via%3Dihub" target="_blank">Read More</a>
-            </div>
-
-            <!-- Publication Box 4 -->
-            <div class="publication">
-                <img src="img/pigx.svg" alt="PiGx">
-                <h3>PiGx: reproducible genomics analysis pipelines with GNU Guix. GigaScience, 2018</h3>
-                <p>
-                    This study introduces a principled approach for building reproducible analysis pipelines and managing their dependencies with GNU Guix, presenting PiGx as a case study. PiGx is a set of highly reproducible pipelines for analyzing various types of sequencing data, generating publication-ready reports and figures, designed for users with command-line experience, potentially benefiting laboratory workers and bioinformaticians alike.
-                </p>
-                <a href="https://academic.oup.com/gigascience/article/7/12/giy123/5114263" target="_blank">Read More</a>
-            </div>
-
-            <!-- Publication Box 5 -->
-            <div class="publication">
-                <img src="img/glut1.jpg" alt="glut1">
-                <h3>Mutations in Disordered Regions Can Cause Disease by Creating Dileucine Motifs. Cell, 2018 </h3>
-                <p>
-                   The study investigates the impact of mutations in intrinsically disordered regions (IDRs) of proteins on protein-protein interactions, finding that mutations in three transmembrane proteins lead to increased clathrin binding and create dileucine motifs. The research reveals that several mutations in disordered regions cause "dileucineopathies," with gained dileucine motifs being significantly overrepresented in structurally disordered cytosolic domains of transmembrane proteins.
-                </p>
-                <a href="https://www.sciencedirect.com/science/article/pii/S0092867418310353?via%3Dihub#undfig1" target="_blank">Read More</a>
-            </div>
-
-            <!-- Publication Box 6 -->
-            <div class="publication">
-                <img src="img/RCAS.png" alt="RCAS">
-                <h3>RCAS: an RNA centric annotation system for transcriptome-wide regions of interest. Nucleic Acids Research, 2017</h3>
-                <p>
-                   RCAS, an R package, is designed to simplify the creation of gene-centric annotations and analysis for genomic regions of interest obtained from various RNA-based omics technologies. With a modular design, flexible usage, and convenient integration options, RCAS can reproduce published findings, generate novel knowledge, and provide contextual knowledge necessary for understanding the functional aspects of biological events involving RNAs.
-                </p>
-                <a href="https://academic.oup.com/nar/article/45/10/e91/3038237" target="_blank">Read More</a>
+        <!-- Publications Section -->
+        <section id="publications">
+            <h2>Selected Publications</h2>
+            <!-- Swiper -->
+            <div class="swiper-container">
+                <div class="swiper-wrapper">
+                    <!-- Publication Slide 1 -->
+                    <div class="swiper-slide">
+                        <div class="publication-item">
+                            <div class="publication-image">
+                                <img src="img/ikarus.png" alt="Ikarus">
+                            </div>
+                            <div class="publication-content">
+                                <h3>Identifying tumor cells at the single-cell level using machine learning</h3>
+                                <p><strong>Genome Biology, 2022</strong></p>
+                                <div class="publication-details">
+                                    <p>Ikarus is a machine learning pipeline designed to identify tumor cells from normal cells in single-cell sequencing data. Tested on multiple datasets, it demonstrates high sensitivity and specificity in distinguishing cell types in various experimental contexts.</p>
+                                    <a href="https://genomebiology.biomedcentral.com/articles/10.1186/s13059-022-02683-1" target="_blank">View Publication</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Repeat for other publication slides -->
+                    <!-- Publication Slide 2 -->
+                    <div class="swiper-slide">
+                        <div class="publication-item">
+                            <div class="publication-image">
+                                <img src="img/crispr_dart.png" alt="crispr_dart">
+                            </div>
+                            <div class="publication-content">
+                                <h3>Parallel genetics of regulatory sequences using scalable genome editing in vivo</h3>
+                                <p><strong>Cell Reports, 2021</strong></p>
+                                <div class="publication-details">
+                                    <p>The crispr-DART software is used to analyze indel mutations in targeted DNA sequencing, providing insights into the impact of mutations on gene expression and fitness. By applying the software in conjunction with inducible Cas9 and multiplexed guide RNAs, researchers can study regulatory sequences directly in animals, helping to understand their role in health and disease.</p>
+                                    <a href="https://www.sciencedirect.com/science/article/pii/S2211124721003028" target="_blank">View Publication</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Publication Slide 3 -->
+                    <div class="swiper-slide">
+                        <div class="publication-item">
+                            <div class="publication-image">
+                                <img src="img/senescence.jpg" alt="senescence">
+                            </div>
+                            <div class="publication-content">
+                                <h3>Single-cell analyses of aging, inflammation and senescence</h3>
+                                <p><strong>Aging Research Reviews, 2020</strong></p>
+                                <div class="publication-details">
+                                    <p>This study compiles and analyzes aging-related single-cell gene expression datasets, highlighting unique insights that are difficult to obtain from bulk data. The findings reveal increased cellular senescence markers, inflammatory processes, and transcriptional heterogeneity with age, suggesting single-cell experiments could provide critical information for interventions targeting aging, inflammation, senescence, and disease.</p>
+                                    <a href="https://www.sciencedirect.com/science/article/pii/S1568163720302919?via%3Dihub" target="_blank">View Publication</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Publication Slide 4 -->
+                    <div class="swiper-slide">
+                        <div class="publication-item">
+                            <div class="publication-image">
+                                <img src="img/pigx.svg" alt="PiGx">
+                            </div>
+                            <div class="publication-content">
+                                <h3>PiGx: reproducible genomics analysis pipelines with GNU Guix</h3>
+                                <p><strong>GigaScience, 2018</strong></p>
+                                <div class="publication-details">
+                                    <p>This study introduces a principled approach for building reproducible analysis pipelines and managing their dependencies with GNU Guix, presenting PiGx as a case study. PiGx is a set of highly reproducible pipelines for analyzing various types of sequencing data, generating publication-ready reports and figures, designed for users with command-line experience, potentially benefiting laboratory workers and bioinformaticians alike.</p>
+                                    <a href="https://academic.oup.com/gigascience/article/7/12/giy123/5114263" target="_blank">View Publication</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Publication Slide 5 -->
+                    <div class="swiper-slide">
+                        <div class="publication-item">
+                            <div class="publication-image">
+                                <img src="img/glut1.jpg" alt="glut1">
+                            </div>
+                            <div class="publication-content">
+                                <h3>Mutations in Disordered Regions Can Cause Disease by Creating Dileucine Motifs</h3>
+                                <p><strong>Cell, 2018</strong></p>
+                                <div class="publication-details">
+                                    <p>The study investigates the impact of mutations in intrinsically disordered regions (IDRs) of proteins on protein-protein interactions, finding that mutations in three transmembrane proteins lead to increased clathrin binding and create dileucine motifs. The research reveals that several mutations in disordered regions cause "dileucineopathies," with gained dileucine motifs being significantly overrepresented in structurally disordered cytosolic domains of transmembrane proteins.</p>
+                                    <a href="https://www.sciencedirect.com/science/article/pii/S0092867418310353?via%3Dihub#undfig1" target="_blank">View Publication</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Publication Slide 6 -->
+                    <div class="swiper-slide">
+                        <div class="publication-item">
+                            <div class="publication-image">
+                                <img src="img/RCAS.png" alt="RCAS">
+                            </div>
+                            <div class="publication-content">
+                                <h3>RCAS: an RNA centric annotation system for transcriptome-wide regions of interest</h3>
+                                <p><strong>Nucleic Acids Research, 2017</strong></p>
+                                <div class="publication-details">
+                                    <p>RCAS, an R package, is designed to simplify the creation of gene-centric annotations and analysis for genomic regions of interest obtained from various RNA-based omics technologies. With a modular design, flexible usage, and convenient integration options, RCAS can reproduce published findings, generate novel knowledge, and provide contextual knowledge necessary for understanding the functional aspects of biological events involving RNAs.</p>
+                                    <a href="https://academic.oup.com/nar/article/45/10/e91/3038237" target="_blank">View Publication</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Additional slides... -->
+                </div>
+                <!-- Add Pagination -->
+                <div class="swiper-pagination"></div>
+                <!-- Add Navigation -->
+                <div class="swiper-button-prev"></div>
+                <div class="swiper-button-next"></div>
             </div>
         </section>
     </main>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/html2pdf.js/0.10.1/html2pdf.bundle.min.js"></script>
 
+    <!-- Include Swiper JS -->
+    <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
+    <!-- JavaScript for Swiper initialization -->
     <script>
-        document.getElementById("download-pdf").addEventListener("click", function () {
-            var element = document.body;
-            var downloadButton = document.getElementById("download-pdf");
-            downloadButton.style.display = "none"; // Hide the button
-
-            var opt = {
-                margin: [10, 10, 10, 10],
-                filename: 'BoraUyar.CV.pdf',
-                image: { type: 'jpeg', quality: 0.98 },
-                html2canvas: { scale: 2 },
-                jsPDF: { unit: 'mm', format: 'a4', orientation: 'portrait' }
-            };
-
-            html2pdf().set(opt).from(element).save().then(function() {
-                downloadButton.style.display = ""; // Show the button again
-            });
+        // Initialize Swiper
+        var swiper = new Swiper('.swiper-container', {
+            slidesPerView: 2,
+            spaceBetween: 10, // Adjust space between slides if needed
+            loop: false,
+            pagination: {
+                el: '.swiper-pagination',
+                clickable: true,
+            },
+            navigation: {
+                nextEl: '.swiper-button-next',
+                prevEl: '.swiper-button-prev',
+            },
         });
     </script>
-
 </body>
 </html>
-
 
