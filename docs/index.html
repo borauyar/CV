@@ -3,11 +3,13 @@
 <head>
     <meta charset="UTF-8">
     <title>Bora Uyar, CV</title>
-    <link rel="stylesheet" href="styles.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- Google Fonts -->
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;700&display=swap" rel="stylesheet">
     <!-- Include Swiper CSS -->
     <link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css">
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="styles.css">
 </head>
 <body>
     <!-- Background Image -->
@@ -22,7 +24,8 @@
                 <p>Bioinformatics Scientist at Max-Delbrück-Center for Molecular Medicine</p>
                 <div class="contact-info">
                     <p>Email: <a href="mailto:bora.uyar@mdc-berlin.de">bora.uyar@mdc-berlin.de</a></p>
-                    <p>Website: <a href="https://borauyar.github.io/">https://borauyar.github.io/</a></p>
+                    <p>Website: <a href="https://borauyar.com">borauyar.com</a></p>
+                    <p>Platform: <a href="https://arcas.ai">arcas.ai</a></p>
                     <p>Address: Hannoversche Str. 28, Berlin 10115, Germany</p>
                 </div>
             </div>
@@ -47,109 +50,100 @@
         <!-- Experience Section -->
         <section id="experience">
             <h2>Experience</h2>
-            <table>
-                <tr>
-                    <th>Dates</th>
-                    <th>Position</th>
-                    <th>Company</th>
-                    <th>Location</th>
-                </tr>
-                <tr>
-                    <td>2015 - Present</td>
-                    <td>Bioinformatics Scientist</td>
-                    <td>Max-Delbrück-Center for Molecular Medicine</td>
-                    <td>Berlin, Germany</td>
-                </tr>
-                <tr>
-                    <td>2014 - 2015</td>
-                    <td>Postdoctoral Fellow</td>
-                    <td>European Molecular Biology Laboratory</td>
-                    <td>Heidelberg, Germany</td>
-                </tr>
-            </table>
+            <div class="experience-list">
+                <div class="experience-item">
+                    <div class="experience-dates">2015 - Present</div>
+                    <div class="experience-details">
+                        <h3>Bioinformatics Scientist</h3>
+                        <p><strong>Max-Delbrück-Center for Molecular Medicine</strong></p>
+                        <p>Berlin, Germany</p>
+                    </div>
+                </div>
+                <div class="experience-item">
+                    <div class="experience-dates">2014 - 2015</div>
+                    <div class="experience-details">
+                        <h3>Postdoctoral Fellow</h3>
+                        <p><strong>European Molecular Biology Laboratory</strong></p>
+                        <p>Heidelberg, Germany</p>
+                    </div>
+                </div>
+            </div>
         </section>
 
         <!-- Education Section -->
         <section id="education">
             <h2>Education</h2>
-            <table>
-                <tr>
-                    <th>Dates</th>
-                    <th>Degree</th>
-                    <th>University</th>
-                    <th>Location</th>
-                </tr>
-                <tr>
-                    <td>2011 - 2014</td>
-                    <td>PhD</td>
-                    <td>European Molecular Biology Laboratory</td>
-                    <td>Heidelberg, Germany</td>
-                </tr>
-                <tr>
-                    <td>2008 - 2010</td>
-                    <td>MSc</td>
-                    <td>Simon Fraser University, BC Cancer Agency</td>
-                    <td>Vancouver, Canada</td>
-                </tr>
-                <tr>
-                    <td>2003 - 2008</td>
-                    <td>BSc</td>
-                    <td>Sabanci University</td>
-                    <td>Istanbul, Turkey</td>
-                </tr>
-            </table>
+            <div class="education-list">
+                <div class="education-item">
+                    <div class="education-dates">2011 - 2014</div>
+                    <div class="education-details">
+                        <h3>PhD in Bioinformatics</h3>
+                        <p><strong>European Molecular Biology Laboratory</strong></p>
+                        <p>Heidelberg, Germany</p>
+                    </div>
+                </div>
+                <div class="education-item">
+                    <div class="education-dates">2008 - 2010</div>
+                    <div class="education-details">
+                        <h3>MSc in Bioinformatics</h3>
+                        <p><strong>Simon Fraser University, BC Cancer Agency</strong></p>
+                        <p>Vancouver, Canada</p>
+                    </div>
+                </div>
+                <div class="education-item">
+                    <div class="education-dates">2003 - 2008</div>
+                    <div class="education-details">
+                        <h3>BSc in Biological Sciences</h3>
+                        <p><strong>Sabanci University</strong></p>
+                        <p>Istanbul, Turkey</p>
+                    </div>
+                </div>
+            </div>
         </section>
 
         <!-- Skills Section -->
         <section id="skills">
             <h2>Skills</h2>
-            <table>
-                <tr>
-                    <th>Skill Type</th>
-                    <th>Active Skills</th>
-                    <th>Familiar / Past Skills</th>
-                </tr>
-                <tr>
-                    <td>Programming Languages</td>
-                    <td>Python, R, bash/shell</td>
-                    <td>Perl, C++, SQL</td>
-                </tr>
-                <tr>
-                    <td>Deep Learning Development</td>
-                    <td>PyTorch, PyTorch Lightning, PyTorch Geometric</td>
-                    <td>TensorFlow, Keras</td>
-                </tr>
-                <tr>
-                    <td>Machine Learning Methods</td>
-                    <td>Random Forests, SVMs, GLMnet</td>
-                    <td></td>
-                </tr>
-                <tr>
-                    <td>Version Control</td>
-                    <td>Git</td>
-                    <td>Subversion</td>
-                </tr>
-                <tr>
-                    <td>Workflows</td>
-                    <td>Snakemake</td>
-                    <td>CWL</td>
-                </tr>
-                <tr>
-                    <td>Package Management</td>
-                    <td>Conda, Guix</td>
-                    <td>Docker</td>
-                </tr>
-                <tr>
-                    <td>Data Science Toolkits</td>
-                    <td>CRAN/Bioconductor, Python libraries (scikit-learn, NumPy, pandas, Matplotlib)</td>
-                    <td></td>
-                </tr>
-                <tr>
-                    <td>Keywords</td>
-                    <td>Omic data science for precision oncology, protein language models, causal network analysis, single-cell data analysis</td>
-                    <td>Comparative genomics, short linear motifs</td>
-                </tr>
-            </table>
+            <div class="skills-list">
+                <div class="skill-item">
+                    <h3>Programming Languages</h3>
+                    <p><strong>Active Skills:</strong> Python, R, Bash/Shell</p>
+                    <p><strong>Familiar/Past Skills:</strong> Perl, C++, SQL</p>
+                </div>
+                <div class="skill-item">
+                    <h3>Deep Learning Development</h3>
+                    <p><strong>Active Skills:</strong> PyTorch, PyTorch Lightning, PyTorch Geometric</p>
+                    <p><strong>Familiar/Past Skills:</strong> TensorFlow, Keras</p>
+                </div>
+                <div class="skill-item">
+                    <h3>Machine Learning Methods</h3>
+                    <p>Random Forests, SVMs, GLMnet</p>
+                </div>
+                <div class="skill-item">
+                    <h3>Version Control</h3>
+                    <p><strong>Active Skills:</strong> Git</p>
+                    <p><strong>Familiar/Past Skills:</strong> Subversion</p>
+                </div>
+                <div class="skill-item">
+                    <h3>Workflows</h3>
+                    <p><strong>Active Skills:</strong> Snakemake</p>
+                    <p><strong>Familiar/Past Skills:</strong> CWL</p>
+                </div>
+                <div class="skill-item">
+                    <h3>Package Management</h3>
+                    <p><strong>Active Skills:</strong> Conda, Guix</p>
+                    <p><strong>Familiar/Past Skills:</strong> Docker</p>
+                </div>
+                <div class="skill-item">
+                    <h3>Data Science Toolkits</h3>
+                    <p>CRAN/Bioconductor, Python libraries (scikit-learn, NumPy, pandas, Matplotlib)</p>
+                </div>
+                <div class="skill-item">
+                    <h3>Keywords</h3>
+                    <p><strong>Active:</strong> Omic data science for precision oncology, protein language models, causal network analysis, single-cell data analysis</p>
+                    <p><strong>Familiar/Past:</strong> Comparative genomics, short linear motifs</p>
+                </div>
+            </div>
         </section>
 
         <!-- Profiles Section -->
@@ -173,12 +167,12 @@
                     </a>
                 </li>
                 <li>
-                    <a href="https://www.bionity.com/en/news/1178091/searching-the-sewers-for-viruses.html?WT.mc_id=ca0068" target="_blank" rel="noopener">
+                    <a href="https://www.bionity.com/en/news/1178091/searching-the-sewers-for-viruses.html" target="_blank" rel="noopener">
                         Searching the sewers for viruses (bionity.com)
                     </a>
                 </li>
                 <li>
-                    <a href="https://www.bionity.com/en/news/1176478/ai-identifies-cancer-cells.html?WT.mc_id=ca0068" target="_blank" rel="noopener">
+                    <a href="https://www.bionity.com/en/news/1176478/ai-identifies-cancer-cells.html" target="_blank" rel="noopener">
                         AI identifies cancer cells (bionity.com)
                     </a>
                 </li>
@@ -200,6 +194,7 @@
             </ul>
         </section>
 
+
         <!-- Publications Section -->
         <section id="publications">
             <h2>Selected Publications</h2>
@@ -214,15 +209,13 @@
                             </div>
                             <div class="publication-content">
                                 <h3>Identifying tumor cells at the single-cell level using machine learning</h3>
-                                <p><strong>Genome Biology, 2022</strong></p>
+                                <p><a href="https://genomebiology.biomedcentral.com/articles/10.1186/s13059-022-02683-1" target="_blank"<strong>Genome Biology, 2022</strong> </a> </p>
                                 <div class="publication-details">
                                     <p>Ikarus is a machine learning pipeline designed to identify tumor cells from normal cells in single-cell sequencing data. Tested on multiple datasets, it demonstrates high sensitivity and specificity in distinguishing cell types in various experimental contexts.</p>
-                                    <a href="https://genomebiology.biomedcentral.com/articles/10.1186/s13059-022-02683-1" target="_blank">View Publication</a>
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <!-- Repeat for other publication slides -->
                     <!-- Publication Slide 2 -->
                     <div class="swiper-slide">
                         <div class="publication-item">
@@ -231,10 +224,9 @@
                             </div>
                             <div class="publication-content">
                                 <h3>Parallel genetics of regulatory sequences using scalable genome editing in vivo</h3>
-                                <p><strong>Cell Reports, 2021</strong></p>
+                                <p><a href="https://www.sciencedirect.com/science/article/pii/S2211124721003028" target="_blank"<strong>Cell Reports, 2021</strong> </a> </p>
                                 <div class="publication-details">
                                     <p>The crispr-DART software is used to analyze indel mutations in targeted DNA sequencing, providing insights into the impact of mutations on gene expression and fitness. By applying the software in conjunction with inducible Cas9 and multiplexed guide RNAs, researchers can study regulatory sequences directly in animals, helping to understand their role in health and disease.</p>
-                                    <a href="https://www.sciencedirect.com/science/article/pii/S2211124721003028" target="_blank">View Publication</a>
                                 </div>
                             </div>
                         </div>
@@ -247,10 +239,9 @@
                             </div>
                             <div class="publication-content">
                                 <h3>Single-cell analyses of aging, inflammation and senescence</h3>
-                                <p><strong>Aging Research Reviews, 2020</strong></p>
+                                <p><a href="https://www.sciencedirect.com/science/article/pii/S1568163720302919?via%3Dihub" target="_blank" <strong>Aging Research Reviews, 2020</strong> </a> </p>
                                 <div class="publication-details">
                                     <p>This study compiles and analyzes aging-related single-cell gene expression datasets, highlighting unique insights that are difficult to obtain from bulk data. The findings reveal increased cellular senescence markers, inflammatory processes, and transcriptional heterogeneity with age, suggesting single-cell experiments could provide critical information for interventions targeting aging, inflammation, senescence, and disease.</p>
-                                    <a href="https://www.sciencedirect.com/science/article/pii/S1568163720302919?via%3Dihub" target="_blank">View Publication</a>
                                 </div>
                             </div>
                         </div>
@@ -263,10 +254,9 @@
                             </div>
                             <div class="publication-content">
                                 <h3>PiGx: reproducible genomics analysis pipelines with GNU Guix</h3>
-                                <p><strong>GigaScience, 2018</strong></p>
+                                <p><a href="https://academic.oup.com/gigascience/article/7/12/giy123/5114263" target="_blank"<strong>GigaScience, 2018</strong> </a> </p>
                                 <div class="publication-details">
                                     <p>This study introduces a principled approach for building reproducible analysis pipelines and managing their dependencies with GNU Guix, presenting PiGx as a case study. PiGx is a set of highly reproducible pipelines for analyzing various types of sequencing data, generating publication-ready reports and figures, designed for users with command-line experience, potentially benefiting laboratory workers and bioinformaticians alike.</p>
-                                    <a href="https://academic.oup.com/gigascience/article/7/12/giy123/5114263" target="_blank">View Publication</a>
                                 </div>
                             </div>
                         </div>
@@ -279,10 +269,9 @@
                             </div>
                             <div class="publication-content">
                                 <h3>Mutations in Disordered Regions Can Cause Disease by Creating Dileucine Motifs</h3>
-                                <p><strong>Cell, 2018</strong></p>
+                                <p><a href="https://www.sciencedirect.com/science/article/pii/S0092867418310353?via%3Dihub#undfig1" target="_blank"<strong>Cell, 2018</strong> </a> </p>
                                 <div class="publication-details">
                                     <p>The study investigates the impact of mutations in intrinsically disordered regions (IDRs) of proteins on protein-protein interactions, finding that mutations in three transmembrane proteins lead to increased clathrin binding and create dileucine motifs. The research reveals that several mutations in disordered regions cause "dileucineopathies," with gained dileucine motifs being significantly overrepresented in structurally disordered cytosolic domains of transmembrane proteins.</p>
-                                    <a href="https://www.sciencedirect.com/science/article/pii/S0092867418310353?via%3Dihub#undfig1" target="_blank">View Publication</a>
                                 </div>
                             </div>
                         </div>
@@ -295,15 +284,16 @@
                             </div>
                             <div class="publication-content">
                                 <h3>RCAS: an RNA centric annotation system for transcriptome-wide regions of interest</h3>
-                                <p><strong>Nucleic Acids Research, 2017</strong></p>
+                                <p> <a href="https://academic.oup.com/nar/article/45/10/e91/3038237" target="_blank" <strong>Nucleic Acids Research, 2017</strong>  </a>
+                                </p>
                                 <div class="publication-details">
+                                  
                                     <p>RCAS, an R package, is designed to simplify the creation of gene-centric annotations and analysis for genomic regions of interest obtained from various RNA-based omics technologies. With a modular design, flexible usage, and convenient integration options, RCAS can reproduce published findings, generate novel knowledge, and provide contextual knowledge necessary for understanding the functional aspects of biological events involving RNAs.</p>
-                                    <a href="https://academic.oup.com/nar/article/45/10/e91/3038237" target="_blank">View Publication</a>
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <!-- Additional slides... -->
+                    <!-- Additional slides can be added here -->
                 </div>
                 <!-- Add Pagination -->
                 <div class="swiper-pagination"></div>
@@ -321,7 +311,7 @@
         // Initialize Swiper
         var swiper = new Swiper('.swiper-container', {
             slidesPerView: 2,
-            spaceBetween: 10, // Adjust space between slides if needed
+            spaceBetween: 10,
             loop: false,
             pagination: {
                 el: '.swiper-pagination',
@@ -331,8 +321,22 @@
                 nextEl: '.swiper-button-next',
                 prevEl: '.swiper-button-prev',
             },
+            // Responsive breakpoints
+            breakpoints: {
+                0: {
+                    slidesPerView: 1,
+                    spaceBetween: 10,
+                },
+                768: {
+                    slidesPerView: 2,
+                    spaceBetween: 10,
+                },
+                1024: {
+                    slidesPerView: 2,
+                    spaceBetween: 10,
+                },
+            },
         });
     </script>
 </body>
 </html>
-
